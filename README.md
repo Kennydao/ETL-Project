@@ -4,9 +4,9 @@ Proposal of ETL Project
 
 
 TEAM MEMBERS
-•	Mickey Sandhu
-•	Sean Pei
-•	Kenny Dao
+* Mickey Sandhu
+* Sean Pei
+* Kenny Dao
 
 PROJECT DESCRIPTION/OUTLINE (Usage of the dataset)
 * Query the most popular book titles (best sellers, revenue)

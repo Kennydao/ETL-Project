@@ -9,10 +9,10 @@ TEAM MEMBERS
 •	Kenny Dao
 
 PROJECT DESCRIPTION/OUTLINE (Usage of the dataset)
-•	Find the most popular book titles (best sellers, revenue)
-•	Find the highest-rated books, number of review
-•	Find the most recently released titles
-•	Find the good reading books by genre, author, country, ect.
+### Query the most popular book titles (best sellers, revenue)
+### Query the highest-rated books, number of review
+### Query the most recently released titles
+###	Query the good reading books by genre, author, country, ect.
 
 DATASET
 

@@ -27,4 +27,4 @@ BREAKDOWN OF TASKS (Roughly)
   1.	Sourcing, scraping dataset from website
   2.	Cleaning the data
   3.	Designing (setting relation between collection), merging the data
-  4.	Storing the dataset into PostgresSQL
+  4.	Storing the dataset into PostgreSQL

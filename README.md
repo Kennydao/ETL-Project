@@ -1,5 +1,4 @@
-# ETL-Project
-(Proposal)
+# ETL-Project (Proposal)
 
 
 TEAM MEMBERS

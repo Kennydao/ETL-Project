@@ -20,7 +20,7 @@ DATASET
 
 DATABASE
 
-  SQL will be used to establish Relational database
+   SQL will be used to establish Relational database
 
 BREAKDOWN OF TASKS (Roughly)
 

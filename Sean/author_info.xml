@@ -1,0 +1,479 @@
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key>FzGfLXRKNKV3Hr4UYtx8g</key>
+    <method>author_show</method>
+  </Request>
+  <author>
+  <id>8719</id>
+  <name>Donna Tartt</name>
+  <link>https://www.goodreads.com/author/show/8719.Donna_Tartt</link>
+  <fans_count type="integer">18990</fans_count>
+  <author_followers_count type="integer">18990</author_followers_count>
+  <large_image_url>https://images.gr-assets.com/authors/1409871301p7/8719.jpg</large_image_url>
+  <image_url>https://images.gr-assets.com/authors/1409871301p5/8719.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/authors/1409871301p2/8719.jpg</small_image_url>
+  <about>Donna Tartt is an American writer who received critical acclaim for her first two novels, &lt;i&gt;The Secret History&lt;/i&gt; and &lt;i&gt;The Little Friend&lt;/i&gt;, which have been translated into thirty languages. Tartt was the 2003 winner of the WH Smith Literary Award for &lt;i&gt;The Little Friend&lt;/i&gt;. Her novel &lt;i&gt;The Goldfinch&lt;/i&gt; won the Pulitzer Prize in 2014. &lt;br /&gt;&lt;br /&gt;The daughter of Don and Taylor Tartt, she was born in Greenwood, Mississippi but raised 32 miles away in Grenada, Mississippi. At age five, she wrote her first poem, and she first saw publication in a Mississippi literary review at age 13.&lt;br /&gt;&lt;br /&gt;Enrolling in the University of Mississippi in 1981, she pledged to the sorority Kappa Kappa Gamma. Her writing caught the attention of Willie Morris while she was a freshman. Following a recommendation from Morris, Barry Hannah, then an Ole Miss Writer-in-Residence, admitted Tartt into his graduate short story course where, stated Hannah, she ranked higher than the graduate students. Following the suggestion of Morris and others, she transferred to Bennington College in 1982, where she was friends with fellow students Bret Easton Ellis, Jill Eisenstadt, and Jonathan Lethem. At Bennington she studied classics with Claude Fredericks. &lt;br /&gt;&lt;br /&gt;She divides her time between Virginia and New York City.</about>
+  <influences />
+  <works_count>26</works_count>
+  <gender>female</gender>
+  <hometown>Greenwood, Mississippi</hometown>
+  <born_at>1963/12/23</born_at>
+  <died_at />
+  <goodreads_author />
+
+    <books>
+      <book>
+  <id type="integer">17333223</id>
+  <isbn>0316055433</isbn>
+  <isbn13>9780316055437</isbn13>
+  <text_reviews_count type="integer">51914</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7THQkE1UgQ9Mj7914uwrnw</uri>
+  <title>The Goldfinch</title>
+  <title_without_series>The Goldfinch</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378710146l/17333223._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378710146l/17333223._SY75_.jpg</small_image_url>
+  <large_image_url />
+  <link>https://www.goodreads.com/book/show/17333223-the-goldfinch</link>
+  <num_pages>771</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First American Edition</edition_information>
+  <publisher>Little, Brown</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>723660</ratings_count>
+  <description>It begins with a boy. Theo Decker, a thirteen-year-old New Yorker, miraculously survives an accident that kills his mother. Abandoned by his father, Theo is taken in by the family of a wealthy friend. Bewildered by his strange new home on Park Avenue, disturbed by schoolmates who don't know how to talk to him, and tormented above all by his unbearable longing for his mother, he clings to one thing that reminds him of her: a small, mysteriously captivating painting that ultimately draws Theo into the underworld of art.&lt;br /&gt;&lt;br /&gt;As an adult, Theo moves silkily between the drawing rooms of the rich and the dusty labyrinth of an antiques store where he works. He is alienated and in love-and at the center of a narrowing, ever more dangerous circle.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Goldfinch&lt;/i&gt; combines vivid characters, mesmerizing language, and suspense, while plumbing with a philosopher's calm the deepest mysteries of love, identity, and art. It is an old-fashioned story of loss and obsession, survival and self-invention, and the ruthless machinations of fate.</description>
+<authors>
+<author>
+<id>8719</id>
+<name>Donna Tartt</name>
+<role />
+<image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p5/8719.jpg
+</image_url>
+<small_image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p2/8719.jpg
+</small_image_url>
+<link>https://www.goodreads.com/author/show/8719.Donna_Tartt</link>
+<average_rating>3.95</average_rating>
+<ratings_count>1099297</ratings_count>
+<text_reviews_count>90589</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>24065147</id>
+  <uri>kca://work/amzn1.gr.work.v1.6G-AEx4NIdtolFiAwDJY8A</uri>
+</work></book>
+
+
+      <book>
+  <id type="integer">29044</id>
+  <isbn>1400031702</isbn>
+  <isbn13>9781400031702</isbn13>
+  <text_reviews_count type="integer">18534</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4nI9LMi_gKWo4kNDfNk4Qg</uri>
+  <title>The Secret History</title>
+  <title_without_series>The Secret History</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554846l/29044._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451554846l/29044._SY75_.jpg</small_image_url>
+  <large_image_url />
+  <link>https://www.goodreads.com/book/show/29044.The_Secret_History</link>
+  <num_pages>559</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Vintage Contemporary Edition </edition_information>
+  <publisher>Vintage</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>319119</ratings_count>
+  <description>Under the influence of their charismatic classics professor, a group of clever, eccentric misfits at an elite New England college discover a way of thinking and living that is a world away from the humdrum existence of their contemporaries. But when they go beyond the boundaries of normal morality they slip gradually from obsession to corruption and betrayal, and at last - inexorably - into evil.</description>
+<authors>
+<author>
+<id>8719</id>
+<name>Donna Tartt</name>
+<role />
+<image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p5/8719.jpg
+</image_url>
+<small_image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p2/8719.jpg
+</small_image_url>
+<link>https://www.goodreads.com/author/show/8719.Donna_Tartt</link>
+<average_rating>3.95</average_rating>
+<ratings_count>1099297</ratings_count>
+<text_reviews_count>90589</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>221359</id>
+  <uri>kca://work/amzn1.gr.work.v1.UolPPkYqcwqjqVAWO5T0yQ</uri>
+</work></book>
+
+
+      <book>
+  <id type="integer">775346</id>
+  <isbn>1400031699</isbn>
+  <isbn13>9781400031696</isbn13>
+  <text_reviews_count type="integer">3870</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.b1OayEpq9H4DwfHWYb0r5Q</uri>
+  <title>The Little Friend</title>
+  <title_without_series>The Little Friend</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327936589l/775346._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327936589l/775346._SY75_.jpg</small_image_url>
+  <large_image_url />
+  <link>https://www.goodreads.com/book/show/775346.The_Little_Friend</link>
+  <num_pages>624</num_pages>
+  <format>Paperback</format>
+  <edition_information />
+  <publisher>Vintage</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.46</average_rating>
+  <ratings_count>49325</ratings_count>
+  <description>Bestselling author Donna Tartt returns with a grandly ambitious and utterly riveting novel of childhood, innocence and evil. &lt;br /&gt;&lt;br /&gt;The setting is Alexandria, Mississippi, where one Mother&#8217;s Day a little boy named Robin Cleve Dufresnes was found hanging from a tree in his parents&#8217; yard. Twelve years later Robin&#8217;s murder is still unsolved and his family remains devastated. So it is that Robin&#8217;s sister Harriet - unnervingly bright, insufferably determined, and unduly influenced by the fiction of Kipling and Robert Louis Stevenson--sets out to unmask his killer. Aided only by her worshipful friend Hely, Harriet crosses her town&#8217;s rigid lines of race and caste and burrows deep into her family&#8217;s history of loss.</description>
+<authors>
+<author>
+<id>8719</id>
+<name>Donna Tartt</name>
+<role />
+<image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p5/8719.jpg
+</image_url>
+<small_image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p2/8719.jpg
+</small_image_url>
+<link>https://www.goodreads.com/author/show/8719.Donna_Tartt</link>
+<average_rating>3.95</average_rating>
+<ratings_count>1099297</ratings_count>
+<text_reviews_count>90589</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>1808852</id>
+  <uri>kca://work/amzn1.gr.work.v1.blgckkjqnbabOoqYSmBEtw</uri>
+</work></book>
+
+
+      <book>
+  <id type="integer">989273</id>
+  <isbn>0140252983</isbn>
+  <isbn13>9780140252989</isbn13>
+  <text_reviews_count type="integer">50</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.AnOnkEZ7TIkNKs9ZrAWVDA</uri>
+  <title>A Christmas Pageant</title>
+  <title_without_series>A Christmas Pageant</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308753590l/989273._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308753590l/989273._SX50_.jpg</small_image_url>
+  <large_image_url />
+  <link>https://www.goodreads.com/book/show/989273.A_Christmas_Pageant</link>
+  <num_pages>32</num_pages>
+  <format>Paperback</format>
+  <edition_information />
+  <publisher>Penguin</publisher>
+  <publication_day />
+  <publication_year>1995</publication_year>
+  <publication_month />
+  <average_rating>3.83</average_rating>
+  <ratings_count>423</ratings_count>
+  <description />
+<authors>
+<author>
+<id>8719</id>
+<name>Donna Tartt</name>
+<role />
+<image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p5/8719.jpg
+</image_url>
+<small_image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p2/8719.jpg
+</small_image_url>
+<link>https://www.goodreads.com/author/show/8719.Donna_Tartt</link>
+<average_rating>3.95</average_rating>
+<ratings_count>1099297</ratings_count>
+<text_reviews_count>90589</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+<work>  <id>974766</id>
+  <uri>kca://work/amzn1.gr.work.v1.Yj8eYWjIB4ZToGnVt7l95A</uri>
+</work></book>
+
+
+      <book>
+  <id type="integer">6323931</id>
+  <isbn>1408802929</isbn>
+  <isbn13>9781408802922</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MLGAKMZpp0G0e_LNiA3A0Q</uri>
+  <title>The Secret History &amp; The Little Friend</title>
+  <title_without_series>The Secret History &amp; The Little Friend</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327600668l/6323931._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327600668l/6323931._SX50_.jpg</small_image_url>
+  <large_image_url />
+  <link>https://www.goodreads.com/book/show/6323931-the-secret-history-the-little-friend</link>
+  <num_pages />
+  <format>Hardcover</format>
+  <edition_information />
+  <publisher>Bloomsburry Publishing</publisher>
+  <publication_day />
+  <publication_year>2009</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.01</average_rating>
+  <ratings_count>336</ratings_count>
+  <description />
+<authors>
+<author>
+<id>8719</id>
+<name>Donna Tartt</name>
+<role />
+<image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p5/8719.jpg
+</image_url>
+<small_image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p2/8719.jpg
+</small_image_url>
+<link>https://www.goodreads.com/author/show/8719.Donna_Tartt</link>
+<average_rating>3.95</average_rating>
+<ratings_count>1099297</ratings_count>
+<text_reviews_count>90589</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>1808821</id>
+  <uri>kca://work/amzn1.gr.work.v1.kRiU8cGafUas1NFrbDVgjw</uri>
+</work></book>
+
+
+      <book>
+  <id type="integer">19547499</id>
+  <isbn nil="true" />
+  <isbn13 nil="true" />
+  <text_reviews_count type="integer">28</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mtDBcmFZIXvTqFByaMXwbA</uri>
+  <title>The Ambush</title>
+  <title_without_series>The Ambush</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429529993l/19547499._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429529993l/19547499._SX50_.jpg</small_image_url>
+  <large_image_url />
+  <link>https://www.goodreads.com/book/show/19547499-the-ambush</link>
+  <num_pages />
+  <format />
+  <edition_information />
+  <publisher>Tin House Magazine</publisher>
+  <publication_day />
+  <publication_year>2006</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>269</ratings_count>
+  <description>Short story published in Tin House, vol. 7, #2.&lt;br /&gt;&lt;br /&gt;A young girl befriends a newcomer to the neighborhood and grapples with fallout from the Vietnam War.</description>
+<authors>
+<author>
+<id>8719</id>
+<name>Donna Tartt</name>
+<role />
+<image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p5/8719.jpg
+</image_url>
+<small_image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p2/8719.jpg
+</small_image_url>
+<link>https://www.goodreads.com/author/show/8719.Donna_Tartt</link>
+<average_rating>3.95</average_rating>
+<ratings_count>1099297</ratings_count>
+<text_reviews_count>90589</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>27678975</id>
+  <uri>kca://work/amzn1.gr.work.v1.yrRfZBg5lyPVmOTnuN8Lvw</uri>
+</work></book>
+
+
+      <book>
+  <id type="integer">9129308</id>
+  <isbn>9023416066</isbn>
+  <isbn13>9789023416067</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ZmdQypqhBNM-k097orw6cA</uri>
+  <title>Het Land van de Papaver</title>
+  <title_without_series>Het Land van de Papaver</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340693285l/9129308._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340693285l/9129308._SX50_.jpg</small_image_url>
+  <large_image_url />
+  <link>https://www.goodreads.com/book/show/9129308-het-land-van-de-papaver</link>
+  <num_pages>43</num_pages>
+  <format>Hardcover</format>
+  <edition_information />
+  <publisher>De Bezige Bij</publisher>
+  <publication_day />
+  <publication_year>2004</publication_year>
+  <publication_month />
+  <average_rating>3.69</average_rating>
+  <ratings_count>210</ratings_count>
+  <description>Oorspronkelijk gepubliceerd in Harper's Magazine vol. 285 (1992), No. 1706 (01 07), pag. 60 (7).&lt;br /&gt;&lt;br /&gt;"To celebrate the 60th birthday of the dutch publisher De Bezige Bij. Donna Tartt have wrote this little story among other authors from the dutch publisher." 'Ik droomde van Nimmerland, van Disneyland, van Oz en van andere landen die helemaal geen naam hadden, met sprekende beren en zwaanprinsen. Soms ving ik, in de slaperige gloed van de gaskachel, een glimp op van het kampvuur van Huck en Tom, daar op hun zandbank in de Mississippi. En soms veranderde 's nachts het gerammel van een langsrijdende vrachtwagen in de logge tred van een dinosaurus die, met zijn kop boven de telefoondraden, kwam aansjokken door de maanovergoten verlaten straten.'</description>
+<authors>
+<author>
+<id>8719</id>
+<name>Donna Tartt</name>
+<role />
+<image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p5/8719.jpg
+</image_url>
+<small_image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p2/8719.jpg
+</small_image_url>
+<link>https://www.goodreads.com/author/show/8719.Donna_Tartt</link>
+<average_rating>3.95</average_rating>
+<ratings_count>1099297</ratings_count>
+<text_reviews_count>90589</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>59558047</id>
+  <uri>kca://work/amzn1.gr.work.v1.jw-2Jmt89vQYMmu5XX9RYA</uri>
+</work></book>
+
+
+      <book>
+  <id type="integer">1580846</id>
+  <isbn>3899406990</isbn>
+  <isbn13>9783899406993</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.nPcZz39YrzvFIIkP4EmoiQ</uri>
+  <title>Eine Strumpfbandnatter</title>
+  <title_without_series>Eine Strumpfbandnatter</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url />
+  <link>https://www.goodreads.com/book/show/1580846.Eine_Strumpfbandnatter</link>
+  <num_pages />
+  <format>Audio CD</format>
+  <edition_information />
+  <publisher>Der Ho&#776;rverl</publisher>
+  <publication_day />
+  <publication_year>2005</publication_year>
+  <publication_month />
+  <average_rating>3.87</average_rating>
+  <ratings_count>92</ratings_count>
+  <description>A short story first appearing in GQ Magazine, May 1995.</description>
+<authors>
+<author>
+<id>8719</id>
+<name>Donna Tartt</name>
+<role />
+<image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p5/8719.jpg
+</image_url>
+<small_image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p2/8719.jpg
+</small_image_url>
+<link>https://www.goodreads.com/author/show/8719.Donna_Tartt</link>
+<average_rating>3.95</average_rating>
+<ratings_count>1099297</ratings_count>
+<text_reviews_count>90589</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>1573663</id>
+  <uri>kca://work/amzn1.gr.work.v1.UGsWVenY-RLDVdWLpF7jPw</uri>
+</work></book>
+
+
+      <book>
+  <id type="integer">21899630</id>
+  <isbn nil="true" />
+  <isbn13 nil="true" />
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Jyo6dEa0zfDMk2bY_bLjrA</uri>
+  <title>Tam O'Shanter</title>
+  <title_without_series>Tam O'Shanter</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url />
+  <link>https://www.goodreads.com/book/show/21899630-tam-o-shanter</link>
+  <num_pages />
+  <format />
+  <edition_information />
+  <publisher />
+  <publication_day />
+  <publication_year>1993</publication_year>
+  <publication_month />
+  <average_rating>3.61</average_rating>
+  <ratings_count>46</ratings_count>
+  <description />
+<authors>
+<author>
+<id>8719</id>
+<name>Donna Tartt</name>
+<role />
+<image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p5/8719.jpg
+</image_url>
+<small_image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p2/8719.jpg
+</small_image_url>
+<link>https://www.goodreads.com/author/show/8719.Donna_Tartt</link>
+<average_rating>3.95</average_rating>
+<ratings_count>1099297</ratings_count>
+<text_reviews_count>90589</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+<work>  <id>69867958</id>
+  <uri>kca://work/amzn1.gr.work.v1.xeKf2OJ_847Nvnk1u7QLAw</uri>
+</work></book>
+
+
+      <book>
+  <id type="integer">20977541</id>
+  <isbn>1615224726</isbn>
+  <isbn13>9781615224722</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bg3qdaE1_YjCp8w8APIpXA</uri>
+  <title>Pollock 2</title>
+  <title_without_series>Pollock 2</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url />
+  <link>https://www.goodreads.com/book/show/20977541-pollock-2</link>
+  <num_pages />
+  <format>Hardcover</format>
+  <edition_information />
+  <publisher>Little Brown and Company</publisher>
+  <publication_day />
+  <publication_year />
+  <publication_month />
+  <average_rating>3.40</average_rating>
+  <ratings_count>30</ratings_count>
+  <description />
+<authors>
+<author>
+<id>8719</id>
+<name>Donna Tartt</name>
+<role />
+<image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p5/8719.jpg
+</image_url>
+<small_image_url nophoto="false">
+https://images.gr-assets.com/authors/1409871301p2/8719.jpg
+</small_image_url>
+<link>https://www.goodreads.com/author/show/8719.Donna_Tartt</link>
+<average_rating>3.95</average_rating>
+<ratings_count>1099297</ratings_count>
+<text_reviews_count>90589</text_reviews_count>
+</author>
+</authors>
+  <published />
+<work>  <id>40354944</id>
+  <uri>kca://work/amzn1.gr.work.v1.eaaWdjwM2W4TlLNzHhmhlA</uri>
+</work></book>
+
+
+    </books>
+</author>
+
+</GoodreadsResponse>

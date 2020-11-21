@@ -1,0 +1,622 @@
+,Title_x,AuthorName,Rating_x,Price,PublishY_x,Genre,BookId,Title_y,ISBN,Rating_y,PublishY_y,PublishD,PublishM,Publisher,Language
+0,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,912842,Everything's Eventual,0340770732,3.97,2002,1,3,Hodder & Stoughton,eng
+1,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,912845,Todo es eventual: 14 relatos oscuros,8401328888,3.97,2003,30,10,Plaza & Janés,spa
+2,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,912846,Everything's Eventual: 14 Dark Tales,0743235185,3.97,2002,2,4,Scribner Book Company,eng
+3,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,913981,Bag of Bones,0340951427,3.9,2007,31,5,Hodder,eng
+4,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,920669,Carrie,0340920947,3.96,2006,7,9,Hodder & Stoughton,en-GB
+5,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,924588,"Wizard and Glass (The Dark Tower, #4)",0340832266,4.25,2003,1,10,New English Library Ltd,eng
+6,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,924761,El misterio de Salem's Lot,8401474566,4.02,1999,1,1,"Plaza & Janes Editores, S.A.",spa
+7,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,924762,'Salem's Lot,0340951478,4.02,2007,4,10,Hodder,eng
+8,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,930148,Shining,2709612011,4.23,1992,1,11,J.-C. Lattès,fre
+9,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,940449,Cujo,8878242357,3.72,1995,15,4,Sperling & Kupfer,ita
+10,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,941204,Dreamcatcher,0340734639,3.63,2003,14,4,Hodder,eng
+11,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,952568,Tommyknockers,8401498953,3.54,1992,1,8,Plaza & Janés,spa
+12,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,957839,Pet Sematary,1417721197,3.99,2002,1,2,Turtleback Books,eng
+13,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,963070,The Green Mile,3404139585,4.45,2000,1,1,Bastei Lübbe,ger
+14,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,963081,La Milla Verde,8401327024,4.45,2000,23,3,Plaza & Janés Editories Sa,spa
+15,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,974791,Cell,0743554337,3.65,2006,24,1,Simon  Schuster Audio,en-US
+16,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,978881,Different Seasons,0451147642,4.35,1981,29,8,Signet,eng
+17,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,983542,Dolores Claiborne,0340546751,3.87,1993,12,11,,eng
+18,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,995103,The Gunslinger,0452261341,3.95,1988,28,9,Plume,eng
+19,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,995123,The Drawing of the Three (The Dark Tower #2),0452262143,4.23,1989,24,3,Plume Books,eng
+20,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,995127,The Waste Lands (The Dark Tower #3),0452267404,4.24,1992,1,1,Plume Books,en-US
+21,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,995131,"The Waste Lands (The Dark Tower, #3)",0140867171,4.24,1998,1,5,Penguin Audio,en-US
+22,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,995275,Blood and Smoke,0671046160,3.92,2000,1,1,Simon & Schuster Audio,eng
+23,11/22/63: A Novel,Stephen King,4.6,22,2011,Fiction,999567,On Writing: A Memoir of the Craft,0613365682,4.33,2001,1,6,Turtleback Books,eng
+24,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,912842,Everything's Eventual,0340770732,3.97,2002,1,3,Hodder & Stoughton,eng
+25,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,912845,Todo es eventual: 14 relatos oscuros,8401328888,3.97,2003,30,10,Plaza & Janés,spa
+26,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,912846,Everything's Eventual: 14 Dark Tales,0743235185,3.97,2002,2,4,Scribner Book Company,eng
+27,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,913981,Bag of Bones,0340951427,3.9,2007,31,5,Hodder,eng
+28,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,920669,Carrie,0340920947,3.96,2006,7,9,Hodder & Stoughton,en-GB
+29,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,924588,"Wizard and Glass (The Dark Tower, #4)",0340832266,4.25,2003,1,10,New English Library Ltd,eng
+30,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,924761,El misterio de Salem's Lot,8401474566,4.02,1999,1,1,"Plaza & Janes Editores, S.A.",spa
+31,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,924762,'Salem's Lot,0340951478,4.02,2007,4,10,Hodder,eng
+32,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,930148,Shining,2709612011,4.23,1992,1,11,J.-C. Lattès,fre
+33,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,940449,Cujo,8878242357,3.72,1995,15,4,Sperling & Kupfer,ita
+34,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,941204,Dreamcatcher,0340734639,3.63,2003,14,4,Hodder,eng
+35,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,952568,Tommyknockers,8401498953,3.54,1992,1,8,Plaza & Janés,spa
+36,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,957839,Pet Sematary,1417721197,3.99,2002,1,2,Turtleback Books,eng
+37,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,963070,The Green Mile,3404139585,4.45,2000,1,1,Bastei Lübbe,ger
+38,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,963081,La Milla Verde,8401327024,4.45,2000,23,3,Plaza & Janés Editories Sa,spa
+39,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,974791,Cell,0743554337,3.65,2006,24,1,Simon  Schuster Audio,en-US
+40,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,978881,Different Seasons,0451147642,4.35,1981,29,8,Signet,eng
+41,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,983542,Dolores Claiborne,0340546751,3.87,1993,12,11,,eng
+42,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,995103,The Gunslinger,0452261341,3.95,1988,28,9,Plume,eng
+43,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,995123,The Drawing of the Three (The Dark Tower #2),0452262143,4.23,1989,24,3,Plume Books,eng
+44,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,995127,The Waste Lands (The Dark Tower #3),0452267404,4.24,1992,1,1,Plume Books,en-US
+45,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,995131,"The Waste Lands (The Dark Tower, #3)",0140867171,4.24,1998,1,5,Penguin Audio,en-US
+46,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,995275,Blood and Smoke,0671046160,3.92,2000,1,1,Simon & Schuster Audio,eng
+47,Doctor Sleep: A Novel,Stephen King,4.7,13,2013,Fiction,999567,On Writing: A Memoir of the Craft,0613365682,4.33,2001,1,6,Turtleback Books,eng
+48,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,912842,Everything's Eventual,0340770732,3.97,2002,1,3,Hodder & Stoughton,eng
+49,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,912845,Todo es eventual: 14 relatos oscuros,8401328888,3.97,2003,30,10,Plaza & Janés,spa
+50,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,912846,Everything's Eventual: 14 Dark Tales,0743235185,3.97,2002,2,4,Scribner Book Company,eng
+51,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,913981,Bag of Bones,0340951427,3.9,2007,31,5,Hodder,eng
+52,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,920669,Carrie,0340920947,3.96,2006,7,9,Hodder & Stoughton,en-GB
+53,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,924588,"Wizard and Glass (The Dark Tower, #4)",0340832266,4.25,2003,1,10,New English Library Ltd,eng
+54,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,924761,El misterio de Salem's Lot,8401474566,4.02,1999,1,1,"Plaza & Janes Editores, S.A.",spa
+55,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,924762,'Salem's Lot,0340951478,4.02,2007,4,10,Hodder,eng
+56,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,930148,Shining,2709612011,4.23,1992,1,11,J.-C. Lattès,fre
+57,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,940449,Cujo,8878242357,3.72,1995,15,4,Sperling & Kupfer,ita
+58,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,941204,Dreamcatcher,0340734639,3.63,2003,14,4,Hodder,eng
+59,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,952568,Tommyknockers,8401498953,3.54,1992,1,8,Plaza & Janés,spa
+60,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,957839,Pet Sematary,1417721197,3.99,2002,1,2,Turtleback Books,eng
+61,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,963070,The Green Mile,3404139585,4.45,2000,1,1,Bastei Lübbe,ger
+62,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,963081,La Milla Verde,8401327024,4.45,2000,23,3,Plaza & Janés Editories Sa,spa
+63,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,974791,Cell,0743554337,3.65,2006,24,1,Simon  Schuster Audio,en-US
+64,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,978881,Different Seasons,0451147642,4.35,1981,29,8,Signet,eng
+65,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,983542,Dolores Claiborne,0340546751,3.87,1993,12,11,,eng
+66,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,995103,The Gunslinger,0452261341,3.95,1988,28,9,Plume,eng
+67,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,995123,The Drawing of the Three (The Dark Tower #2),0452262143,4.23,1989,24,3,Plume Books,eng
+68,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,995127,The Waste Lands (The Dark Tower #3),0452267404,4.24,1992,1,1,Plume Books,en-US
+69,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,995131,"The Waste Lands (The Dark Tower, #3)",0140867171,4.24,1998,1,5,Penguin Audio,en-US
+70,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,995275,Blood and Smoke,0671046160,3.92,2000,1,1,Simon & Schuster Audio,eng
+71,Joyland (Hard Case Crime),Stephen King,4.5,12,2013,Fiction,999567,On Writing: A Memoir of the Craft,0613365682,4.33,2001,1,6,Turtleback Books,eng
+72,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,912842,Everything's Eventual,0340770732,3.97,2002,1,3,Hodder & Stoughton,eng
+73,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,912845,Todo es eventual: 14 relatos oscuros,8401328888,3.97,2003,30,10,Plaza & Janés,spa
+74,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,912846,Everything's Eventual: 14 Dark Tales,0743235185,3.97,2002,2,4,Scribner Book Company,eng
+75,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,913981,Bag of Bones,0340951427,3.9,2007,31,5,Hodder,eng
+76,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,920669,Carrie,0340920947,3.96,2006,7,9,Hodder & Stoughton,en-GB
+77,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,924588,"Wizard and Glass (The Dark Tower, #4)",0340832266,4.25,2003,1,10,New English Library Ltd,eng
+78,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,924761,El misterio de Salem's Lot,8401474566,4.02,1999,1,1,"Plaza & Janes Editores, S.A.",spa
+79,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,924762,'Salem's Lot,0340951478,4.02,2007,4,10,Hodder,eng
+80,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,930148,Shining,2709612011,4.23,1992,1,11,J.-C. Lattès,fre
+81,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,940449,Cujo,8878242357,3.72,1995,15,4,Sperling & Kupfer,ita
+82,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,941204,Dreamcatcher,0340734639,3.63,2003,14,4,Hodder,eng
+83,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,952568,Tommyknockers,8401498953,3.54,1992,1,8,Plaza & Janés,spa
+84,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,957839,Pet Sematary,1417721197,3.99,2002,1,2,Turtleback Books,eng
+85,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,963070,The Green Mile,3404139585,4.45,2000,1,1,Bastei Lübbe,ger
+86,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,963081,La Milla Verde,8401327024,4.45,2000,23,3,Plaza & Janés Editories Sa,spa
+87,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,974791,Cell,0743554337,3.65,2006,24,1,Simon  Schuster Audio,en-US
+88,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,978881,Different Seasons,0451147642,4.35,1981,29,8,Signet,eng
+89,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,983542,Dolores Claiborne,0340546751,3.87,1993,12,11,,eng
+90,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,995103,The Gunslinger,0452261341,3.95,1988,28,9,Plume,eng
+91,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,995123,The Drawing of the Three (The Dark Tower #2),0452262143,4.23,1989,24,3,Plume Books,eng
+92,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,995127,The Waste Lands (The Dark Tower #3),0452267404,4.24,1992,1,1,Plume Books,en-US
+93,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,995131,"The Waste Lands (The Dark Tower, #3)",0140867171,4.24,1998,1,5,Penguin Audio,en-US
+94,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,995275,Blood and Smoke,0671046160,3.92,2000,1,1,Simon & Schuster Audio,eng
+95,Under the Dome: A Novel,Stephen King,4.3,20,2009,Fiction,999567,On Writing: A Memoir of the Craft,0613365682,4.33,2001,1,6,Turtleback Books,eng
+96,1984 (Signet Classics),George Orwell,4.7,6,2017,Fiction,961720,Animal Farm,0582434475,3.94,2000,1,8,Longman Schools Division (a Pearson Education Company),eng
+97,1984 (Signet Classics),George Orwell,4.7,6,2017,Fiction,978916,A Clergyman's Daughter,0156180650,3.48,1950,1,1,Mariner Books,eng
+98,A Wrinkle in Time (Time Quintet),Madeleine L'Engle,4.5,5,2018,Fiction,952570,Wind In The Door,061372383X,4.03,1976,15,2,Turtleback Books,eng
+99,A Wrinkle in Time (Time Quintet),Madeleine L'Engle,4.5,5,2018,Fiction,963476,A Winter's Love,0877888892,3.61,2000,7,3,Shaw Books,eng
+100,A Wrinkle in Time (Time Quintet),Madeleine L'Engle,4.5,5,2018,Fiction,967848,Meet the Austins (Austin Family #1),0808555669,3.84,1981,15,3,Turtleback Books,eng
+101,A Wrinkle in Time (Time Quintet),Madeleine L'Engle,4.5,5,2018,Fiction,996347,"A Wrinkle in Time (Time Series, #1)",0440220394,4.0,1996,2,5,Dell Books (Paperbacks),eng
+102,Alexander Hamilton,Ron Chernow,4.8,13,2016,Non Fiction,944986,Alexander Hamilton,0142800430,4.22,2004,26,4,Penguin Audio,en-US
+103,Alexander Hamilton,Ron Chernow,4.8,13,2016,Non Fiction,953836,"Titan: The Life of John D. Rockefeller, Sr.",0375402802,4.2,1998,12,5,Random House Audio,eng
+104,And the Mountains Echoed,Khaled Hosseini,4.3,13,2013,Fiction,992052,A Thousand Splendid Suns,0670064912,4.37,2007,22,5,Viking Canada,eng
+105,And the Mountains Echoed,Khaled Hosseini,4.3,13,2013,Fiction,993691,Les Cerfs-volants de Kaboul,0785932798,4.3,2006,1,10,French & European Pubns,fre
+106,Arguing with Idiots: How to Stop Small Minds and Big Government,Glenn Beck,4.6,5,2009,Non Fiction,993455,An Inconvenient Book: Real Solutions to the World's Biggest Problems,1416552197,3.75,2007,20,11,Threshold Editions,en-US
+107,"Broke: The Plan to Restore Our Trust, Truth and Treasure",Glenn Beck,4.5,8,2010,Non Fiction,993455,An Inconvenient Book: Real Solutions to the World's Biggest Problems,1416552197,3.75,2007,20,11,Threshold Editions,en-US
+108,"Glenn Beck's Common Sense: The Case Against an Out-of-Control Government, Inspired by Thomas Paine",Glenn Beck,4.6,11,2009,Non Fiction,993455,An Inconvenient Book: Real Solutions to the World's Biggest Problems,1416552197,3.75,2007,20,11,Threshold Editions,en-US
+109,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,924214,Pudd'nhead Wilson,0783891474,3.79,2000,18,9,Thorndike Press,eng
+110,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,924215,"The $30,000 Bequest and Other Stories",0195101464,3.48,1996,5,12,"Oxford University Press, USA",eng
+111,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,924742,A Connecticut Yankee in King Arthur's Court,0812504364,3.78,1991,15,5,Aerie,eng
+112,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,928183,The Gilded Age: A Tale of Today,014043920X,3.54,2001,1,9,Penguin Classics,eng
+113,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,939869,"Graphic Classics, Volume 8: Mark Twain",0978791924,3.36,2007,11,12,Eureka Productions,eng
+114,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,947493,A Double Barrelled Detective Story,1410100650,3.22,2002,5,12,Fredonia Books (NL),eng
+115,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,953644,Pudd'nhead Wilson and Other Tales,0192818066,3.79,1992,27,8,Oxford University Press,eng
+116,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,954455,A Tramp Abroad,0140436081,3.86,1998,28,4,Penguin Classics,eng
+117,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,954456,"Can-Cans, Cats and Cities of Ash (Great Journeys)",0141025565,3.44,2007,27,2,Penguin,en-GB
+118,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,954476,Life on the Mississippi,0140390502,3.89,1985,25,4,Penguin Classics,eng
+119,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,954477,Roughing It,0140390103,3.89,1982,25,3,Penguin Classics,en-GB
+120,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,965754,A Connecticut Yankee in King Arthurs Court: Level 5,9607609832,3.78,2008,1,10,New Editions,eng
+121,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,971248,A Tramp Abroad (Authorized Uniform Edition 1),0809531569,3.86,2003,16,9,Wildside Press,eng
+122,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,978472,The Adventures of Huckleberry Finn,0688106560,3.82,1994,27,9,Books of Wonder,eng
+123,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,981388,The Adventures of Tom Sawyer,1904633471,3.91,2010,1,8,Collector's Library,en-US
+124,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,987496,"The Celebrated Jumping Frog, and Other Sketches",1411630874,3.69,2007,19,4,Lulu.com,eng
+125,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,987901,Adventures of Huckleberry Finn: with Reader's Guide,0877208166,3.82,1972,1,6,Amsco School Publications Inc.,eng
+126,"Autobiography of Mark Twain, Vol. 1",Mark Twain,4.2,14,2010,Non Fiction,999292,A Connecticut Yankee In King Arthur's Court,0192839020,3.78,1999,28,1,Oxford University Press,eng
+127,Born to Run,Bruce Springsteen,4.7,18,2016,Non Fiction,948628,Bruce Springsteen -- Greatest Hits: Authentic Guitar Tab,1576233014,3.67,1996,1,2,Alfred Music,eng
+128,"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr.,4.9,5,2017,Fiction,958347,Here Are My Hands,0805059113,3.88,1998,15,9,Henry Holt and Co. (BYR),eng
+129,"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr.,4.9,5,2017,Fiction,958348,Barn Dance!,0805007997,3.84,1988,15,9,Square Fish,eng
+130,"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr.,4.9,5,2019,Fiction,958347,Here Are My Hands,0805059113,3.88,1998,15,9,Henry Holt and Co. (BYR),eng
+131,"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr.,4.9,5,2019,Fiction,958348,Barn Dance!,0805007997,3.84,1988,15,9,Square Fish,eng
+132,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Malcolm Gladwell,4.4,13,2013,Non Fiction,944767,Blink: The Power of Thinking Without Thinking,0141022043,3.93,2006,2,1,Penguin,eng
+133,Outliers: The Story of Success,Malcolm Gladwell,4.6,20,2009,Non Fiction,944767,Blink: The Power of Thinking Without Thinking,0141022043,3.93,2006,2,1,Penguin,eng
+134,Outliers: The Story of Success,Malcolm Gladwell,4.6,20,2010,Non Fiction,944767,Blink: The Power of Thinking Without Thinking,0141022043,3.93,2006,2,1,Penguin,eng
+135,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,4.4,9,2009,Non Fiction,944767,Blink: The Power of Thinking Without Thinking,0141022043,3.93,2006,2,1,Penguin,eng
+136,Dead And Gone: A Sookie Stackhouse Novel (Sookie Stackhouse/True Blood),Charlaine Harris,4.6,4,2009,Fiction,954672,"Dead to the World (Sookie Stackhouse, #4)",1841493708,4.13,2005,5,3,Orbit,en-GB
+137,"Dead in the Family (Sookie Stackhouse/True Blood, Book 10)",Charlaine Harris,4.3,8,2010,Fiction,954672,"Dead to the World (Sookie Stackhouse, #4)",1841493708,4.13,2005,5,3,Orbit,en-GB
+138,"Dead Reckoning (Sookie Stackhouse/True Blood, Book 11)",Charlaine Harris,4.2,4,2011,Fiction,954672,"Dead to the World (Sookie Stackhouse, #4)",1841493708,4.13,2005,5,3,Orbit,en-GB
+139,Sookie Stackhouse,Charlaine Harris,4.7,25,2009,Fiction,954672,"Dead to the World (Sookie Stackhouse, #4)",1841493708,4.13,2005,5,3,Orbit,en-GB
+140,Dear Zoo: A Lift-the-Flap Book,Rod Campbell,4.8,5,2015,Fiction,972052,Dear Zoo: A Lift The Flap Book,0689825498,4.28,1999,1,5,Little Simon,eng
+141,Dear Zoo: A Lift-the-Flap Book,Rod Campbell,4.8,5,2016,Fiction,972052,Dear Zoo: A Lift The Flap Book,0689825498,4.28,1999,1,5,Little Simon,eng
+142,Dear Zoo: A Lift-the-Flap Book,Rod Campbell,4.8,5,2017,Fiction,972052,Dear Zoo: A Lift The Flap Book,0689825498,4.28,1999,1,5,Little Simon,eng
+143,Dear Zoo: A Lift-the-Flap Book,Rod Campbell,4.8,5,2018,Fiction,972052,Dear Zoo: A Lift The Flap Book,0689825498,4.28,1999,1,5,Little Simon,eng
+144,Dog Man and Cat Kid: From the Creator of Captain Underpants (Dog Man #4),Dav Pilkey,4.9,6,2018,Fiction,904935,El Capitán Calzoncillos y la feroz batalla contra el Niño Mocobiónico 1a Parte: La noche de los Mocos Vivientes,0439662044,4.17,2005,1,1,Scholastic en español,spa
+145,Dog Man and Cat Kid: From the Creator of Captain Underpants (Dog Man #4),Dav Pilkey,4.9,6,2018,Fiction,904936,Capt Underpants  The Invasion...(c Apitan Calzoncillos Y La Invas...),0439353017,4.17,2002,1,6,Scholastic en Espanol,eng
+146,Dog Man and Cat Kid: From the Creator of Captain Underpants (Dog Man #4),Dav Pilkey,4.9,6,2018,Fiction,904937,El  Capitan Calzoncillos y la Invasion de las Horribles Senoras del Espacio Sideral: Y el Subsiguiente Asalto de los Igual de Horribles Zombis Malvado,0613504151,4.17,2002,1,6,Turtleback Books,spa
+147,Dog Man and Cat Kid: From the Creator of Captain Underpants (Dog Man #4),Dav Pilkey,4.9,6,2018,Fiction,948272,Las aventuras del superbebe panal,043955120X,4.23,2003,1,12,"Scholastic, Inc.",spa
+148,Dog Man: A Tale of Two Kitties: From the Creator of Captain Underpants (Dog Man #3),Dav Pilkey,4.9,8,2017,Fiction,904935,El Capitán Calzoncillos y la feroz batalla contra el Niño Mocobiónico 1a Parte: La noche de los Mocos Vivientes,0439662044,4.17,2005,1,1,Scholastic en español,spa
+149,Dog Man: A Tale of Two Kitties: From the Creator of Captain Underpants (Dog Man #3),Dav Pilkey,4.9,8,2017,Fiction,904936,Capt Underpants  The Invasion...(c Apitan Calzoncillos Y La Invas...),0439353017,4.17,2002,1,6,Scholastic en Espanol,eng
+150,Dog Man: A Tale of Two Kitties: From the Creator of Captain Underpants (Dog Man #3),Dav Pilkey,4.9,8,2017,Fiction,904937,El  Capitan Calzoncillos y la Invasion de las Horribles Senoras del Espacio Sideral: Y el Subsiguiente Asalto de los Igual de Horribles Zombis Malvado,0613504151,4.17,2002,1,6,Turtleback Books,spa
+151,Dog Man: A Tale of Two Kitties: From the Creator of Captain Underpants (Dog Man #3),Dav Pilkey,4.9,8,2017,Fiction,948272,Las aventuras del superbebe panal,043955120X,4.23,2003,1,12,"Scholastic, Inc.",spa
+152,Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6),Dav Pilkey,4.9,4,2018,Fiction,904935,El Capitán Calzoncillos y la feroz batalla contra el Niño Mocobiónico 1a Parte: La noche de los Mocos Vivientes,0439662044,4.17,2005,1,1,Scholastic en español,spa
+153,Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6),Dav Pilkey,4.9,4,2018,Fiction,904936,Capt Underpants  The Invasion...(c Apitan Calzoncillos Y La Invas...),0439353017,4.17,2002,1,6,Scholastic en Espanol,eng
+154,Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6),Dav Pilkey,4.9,4,2018,Fiction,904937,El  Capitan Calzoncillos y la Invasion de las Horribles Senoras del Espacio Sideral: Y el Subsiguiente Asalto de los Igual de Horribles Zombis Malvado,0613504151,4.17,2002,1,6,Turtleback Books,spa
+155,Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6),Dav Pilkey,4.9,4,2018,Fiction,948272,Las aventuras del superbebe panal,043955120X,4.23,2003,1,12,"Scholastic, Inc.",spa
+156,Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6),Dav Pilkey,4.9,4,2019,Fiction,904935,El Capitán Calzoncillos y la feroz batalla contra el Niño Mocobiónico 1a Parte: La noche de los Mocos Vivientes,0439662044,4.17,2005,1,1,Scholastic en español,spa
+157,Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6),Dav Pilkey,4.9,4,2019,Fiction,904936,Capt Underpants  The Invasion...(c Apitan Calzoncillos Y La Invas...),0439353017,4.17,2002,1,6,Scholastic en Espanol,eng
+158,Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6),Dav Pilkey,4.9,4,2019,Fiction,904937,El  Capitan Calzoncillos y la Invasion de las Horribles Senoras del Espacio Sideral: Y el Subsiguiente Asalto de los Igual de Horribles Zombis Malvado,0613504151,4.17,2002,1,6,Turtleback Books,spa
+159,Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6),Dav Pilkey,4.9,4,2019,Fiction,948272,Las aventuras del superbebe panal,043955120X,4.23,2003,1,12,"Scholastic, Inc.",spa
+160,Dog Man: Fetch-22: From the Creator of Captain Underpants (Dog Man #8),Dav Pilkey,4.9,8,2019,Fiction,904935,El Capitán Calzoncillos y la feroz batalla contra el Niño Mocobiónico 1a Parte: La noche de los Mocos Vivientes,0439662044,4.17,2005,1,1,Scholastic en español,spa
+161,Dog Man: Fetch-22: From the Creator of Captain Underpants (Dog Man #8),Dav Pilkey,4.9,8,2019,Fiction,904936,Capt Underpants  The Invasion...(c Apitan Calzoncillos Y La Invas...),0439353017,4.17,2002,1,6,Scholastic en Espanol,eng
+162,Dog Man: Fetch-22: From the Creator of Captain Underpants (Dog Man #8),Dav Pilkey,4.9,8,2019,Fiction,904937,El  Capitan Calzoncillos y la Invasion de las Horribles Senoras del Espacio Sideral: Y el Subsiguiente Asalto de los Igual de Horribles Zombis Malvado,0613504151,4.17,2002,1,6,Turtleback Books,spa
+163,Dog Man: Fetch-22: From the Creator of Captain Underpants (Dog Man #8),Dav Pilkey,4.9,8,2019,Fiction,948272,Las aventuras del superbebe panal,043955120X,4.23,2003,1,12,"Scholastic, Inc.",spa
+164,Dog Man: For Whom the Ball Rolls: From the Creator of Captain Underpants (Dog Man #7),Dav Pilkey,4.9,8,2019,Fiction,904935,El Capitán Calzoncillos y la feroz batalla contra el Niño Mocobiónico 1a Parte: La noche de los Mocos Vivientes,0439662044,4.17,2005,1,1,Scholastic en español,spa
+165,Dog Man: For Whom the Ball Rolls: From the Creator of Captain Underpants (Dog Man #7),Dav Pilkey,4.9,8,2019,Fiction,904936,Capt Underpants  The Invasion...(c Apitan Calzoncillos Y La Invas...),0439353017,4.17,2002,1,6,Scholastic en Espanol,eng
+166,Dog Man: For Whom the Ball Rolls: From the Creator of Captain Underpants (Dog Man #7),Dav Pilkey,4.9,8,2019,Fiction,904937,El  Capitan Calzoncillos y la Invasion de las Horribles Senoras del Espacio Sideral: Y el Subsiguiente Asalto de los Igual de Horribles Zombis Malvado,0613504151,4.17,2002,1,6,Turtleback Books,spa
+167,Dog Man: For Whom the Ball Rolls: From the Creator of Captain Underpants (Dog Man #7),Dav Pilkey,4.9,8,2019,Fiction,948272,Las aventuras del superbebe panal,043955120X,4.23,2003,1,12,"Scholastic, Inc.",spa
+168,Dog Man: Lord of the Fleas: From the Creator of Captain Underpants (Dog Man #5),Dav Pilkey,4.9,6,2018,Fiction,904935,El Capitán Calzoncillos y la feroz batalla contra el Niño Mocobiónico 1a Parte: La noche de los Mocos Vivientes,0439662044,4.17,2005,1,1,Scholastic en español,spa
+169,Dog Man: Lord of the Fleas: From the Creator of Captain Underpants (Dog Man #5),Dav Pilkey,4.9,6,2018,Fiction,904936,Capt Underpants  The Invasion...(c Apitan Calzoncillos Y La Invas...),0439353017,4.17,2002,1,6,Scholastic en Espanol,eng
+170,Dog Man: Lord of the Fleas: From the Creator of Captain Underpants (Dog Man #5),Dav Pilkey,4.9,6,2018,Fiction,904937,El  Capitan Calzoncillos y la Invasion de las Horribles Senoras del Espacio Sideral: Y el Subsiguiente Asalto de los Igual de Horribles Zombis Malvado,0613504151,4.17,2002,1,6,Turtleback Books,spa
+171,Dog Man: Lord of the Fleas: From the Creator of Captain Underpants (Dog Man #5),Dav Pilkey,4.9,6,2018,Fiction,948272,Las aventuras del superbebe panal,043955120X,4.23,2003,1,12,"Scholastic, Inc.",spa
+172,Dover Creative Haven Art Nouveau Animal Designs Coloring Book (Creative Haven Coloring Books),Marty Noble,4.6,5,2015,Non Fiction,974716,Mehndi Designs: Traditional Henna Body Art,0486438600,3.61,2004,2,9,Dover Publications,eng
+173,Dover Creative Haven Art Nouveau Animal Designs Coloring Book (Creative Haven Coloring Books),Marty Noble,4.6,5,2015,Non Fiction,995894,Color Your Own Impressionist Paintings,048643592X,4.44,2004,30,11,Dover Publications,eng
+174,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,4.5,16,2010,Non Fiction,936026,Free Agent Nation: How America's New Independent Workers Are Transforming the Way We Live,0446525235,3.83,2005,1,11,Warner Books,eng
+175,Eat This Not That! Supermarket Survival Guide: The No-Diet Weight Loss Solution,David Zinczenko,4.5,1,2009,Non Fiction,921327,"The Abs Diet Ultimate Nutrition Handbook: Your Reference Guide to Thousands of Foods, and How Each One Shapes Your Body",1594867577,3.64,2007,4,9,Rodale Books,eng
+176,"Eat This, Not That! Thousands of Simple Food Swaps that Can Save You 10, 20, 30 Pounds--or More!",David Zinczenko,4.3,14,2009,Non Fiction,921327,"The Abs Diet Ultimate Nutrition Handbook: Your Reference Guide to Thousands of Foods, and How Each One Shapes Your Body",1594867577,3.64,2007,4,9,Rodale Books,eng
+177,Fahrenheit 451,Ray Bradbury,4.6,8,2016,Fiction,904299,Death Is A Lonely Business,0553264478,3.78,1987,1,1,Bantam,eng
+178,Fahrenheit 451,Ray Bradbury,4.6,8,2016,Fiction,941662,Fahrenheit 451,0345294661,3.99,1981,12,2,Del Rey,eng
+179,Fahrenheit 451,Ray Bradbury,4.6,8,2016,Fiction,951779,Dandelion Wine,0553131559,4.09,1979,1,6,Bantam Books,eng
+180,Fahrenheit 451,Ray Bradbury,4.6,8,2016,Fiction,968871,Timeless Stories for Today and Tomorrow,0553102494,4.07,1967,28,3,Bantam Books,en-US
+181,Fahrenheit 451,Ray Bradbury,4.6,8,2016,Fiction,970649,The Martian Chronicles,0385050607,4.14,1958,1,4,Doubleday Books,eng
+182,Fahrenheit 451,Ray Bradbury,4.6,8,2016,Fiction,981778,The Halloween Tree,055320064X,3.84,1974,1,10,Bantam Books,eng
+183,Fahrenheit 451,Ray Bradbury,4.6,8,2018,Fiction,904299,Death Is A Lonely Business,0553264478,3.78,1987,1,1,Bantam,eng
+184,Fahrenheit 451,Ray Bradbury,4.6,8,2018,Fiction,941662,Fahrenheit 451,0345294661,3.99,1981,12,2,Del Rey,eng
+185,Fahrenheit 451,Ray Bradbury,4.6,8,2018,Fiction,951779,Dandelion Wine,0553131559,4.09,1979,1,6,Bantam Books,eng
+186,Fahrenheit 451,Ray Bradbury,4.6,8,2018,Fiction,968871,Timeless Stories for Today and Tomorrow,0553102494,4.07,1967,28,3,Bantam Books,en-US
+187,Fahrenheit 451,Ray Bradbury,4.6,8,2018,Fiction,970649,The Martian Chronicles,0385050607,4.14,1958,1,4,Doubleday Books,eng
+188,Fahrenheit 451,Ray Bradbury,4.6,8,2018,Fiction,981778,The Halloween Tree,055320064X,3.84,1974,1,10,Bantam Books,eng
+189,Fantastic Beasts and Where to Find Them: The Original Screenplay (Harry Potter),J.K. Rowling,4.7,15,2016,Fiction,907207,ハリー・ポッターと賢者の石 (ハリー・ポッターシリーズ #1),4915512495,4.47,2003,22,10,静山社,jpn
+190,Fantastic Beasts and Where to Find Them: The Original Screenplay (Harry Potter),J.K. Rowling,4.7,15,2016,Fiction,912224,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",0545029368,4.62,2007,1,8,Arthur A. Levine Books,eng
+191,Fantastic Beasts and Where to Find Them: The Original Screenplay (Harry Potter),J.K. Rowling,4.7,15,2016,Fiction,925412,"Harry Potter à l'École des Sorciers (Harry Potter, #1)",2070612368,4.47,2007,15,3,Gallimard Jeunesse,fre
+192,Fantastic Beasts and Where to Find Them: The Original Screenplay (Harry Potter),J.K. Rowling,4.7,15,2016,Fiction,943082,"Harry Potter ja puoliverinen prinssi (Harry Potter, #6)",9513135071,4.57,2006,16,3,Tammi,fin
+193,Fantastic Beasts and Where to Find Them: The Original Screenplay (Harry Potter),J.K. Rowling,4.7,15,2016,Fiction,943346,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",0939173352,4.42,1999,9,9,National Braille Press,eng
+194,Fantastic Beasts and Where to Find Them: The Original Screenplay (Harry Potter),J.K. Rowling,4.7,15,2016,Fiction,943382,"Harry Potter ja Feeniksin kilta (Harry Potter, #5)",9513129071,4.5,2004,12,3,Tammi,fin
+195,Fantastic Beasts and Where to Find Them: The Original Screenplay (Harry Potter),J.K. Rowling,4.7,15,2016,Fiction,988373,Complete Harry Potter Boxed Set,0747593698,4.74,2007,1,10,Bloomsbury Publishing,en-GB
+196,"Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter, Book 2)",J.K. Rowling,4.9,30,2016,Fiction,907207,ハリー・ポッターと賢者の石 (ハリー・ポッターシリーズ #1),4915512495,4.47,2003,22,10,静山社,jpn
+197,"Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter, Book 2)",J.K. Rowling,4.9,30,2016,Fiction,912224,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",0545029368,4.62,2007,1,8,Arthur A. Levine Books,eng
+198,"Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter, Book 2)",J.K. Rowling,4.9,30,2016,Fiction,925412,"Harry Potter à l'École des Sorciers (Harry Potter, #1)",2070612368,4.47,2007,15,3,Gallimard Jeunesse,fre
+199,"Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter, Book 2)",J.K. Rowling,4.9,30,2016,Fiction,943082,"Harry Potter ja puoliverinen prinssi (Harry Potter, #6)",9513135071,4.57,2006,16,3,Tammi,fin
+200,"Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter, Book 2)",J.K. Rowling,4.9,30,2016,Fiction,943346,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",0939173352,4.42,1999,9,9,National Braille Press,eng
+201,"Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter, Book 2)",J.K. Rowling,4.9,30,2016,Fiction,943382,"Harry Potter ja Feeniksin kilta (Harry Potter, #5)",9513129071,4.5,2004,12,3,Tammi,fin
+202,"Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter, Book 2)",J.K. Rowling,4.9,30,2016,Fiction,988373,Complete Harry Potter Boxed Set,0747593698,4.74,2007,1,10,Bloomsbury Publishing,en-GB
+203,"Harry Potter and the Cursed Child, Parts 1 & 2, Special Rehearsal Edition Script",J.K. Rowling,4.0,12,2016,Fiction,907207,ハリー・ポッターと賢者の石 (ハリー・ポッターシリーズ #1),4915512495,4.47,2003,22,10,静山社,jpn
+204,"Harry Potter and the Cursed Child, Parts 1 & 2, Special Rehearsal Edition Script",J.K. Rowling,4.0,12,2016,Fiction,912224,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",0545029368,4.62,2007,1,8,Arthur A. Levine Books,eng
+205,"Harry Potter and the Cursed Child, Parts 1 & 2, Special Rehearsal Edition Script",J.K. Rowling,4.0,12,2016,Fiction,925412,"Harry Potter à l'École des Sorciers (Harry Potter, #1)",2070612368,4.47,2007,15,3,Gallimard Jeunesse,fre
+206,"Harry Potter and the Cursed Child, Parts 1 & 2, Special Rehearsal Edition Script",J.K. Rowling,4.0,12,2016,Fiction,943082,"Harry Potter ja puoliverinen prinssi (Harry Potter, #6)",9513135071,4.57,2006,16,3,Tammi,fin
+207,"Harry Potter and the Cursed Child, Parts 1 & 2, Special Rehearsal Edition Script",J.K. Rowling,4.0,12,2016,Fiction,943346,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",0939173352,4.42,1999,9,9,National Braille Press,eng
+208,"Harry Potter and the Cursed Child, Parts 1 & 2, Special Rehearsal Edition Script",J.K. Rowling,4.0,12,2016,Fiction,943382,"Harry Potter ja Feeniksin kilta (Harry Potter, #5)",9513129071,4.5,2004,12,3,Tammi,fin
+209,"Harry Potter and the Cursed Child, Parts 1 & 2, Special Rehearsal Edition Script",J.K. Rowling,4.0,12,2016,Fiction,988373,Complete Harry Potter Boxed Set,0747593698,4.74,2007,1,10,Bloomsbury Publishing,en-GB
+210,"Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter, Book 3)",J.K. Rowling,4.9,30,2017,Fiction,907207,ハリー・ポッターと賢者の石 (ハリー・ポッターシリーズ #1),4915512495,4.47,2003,22,10,静山社,jpn
+211,"Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter, Book 3)",J.K. Rowling,4.9,30,2017,Fiction,912224,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",0545029368,4.62,2007,1,8,Arthur A. Levine Books,eng
+212,"Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter, Book 3)",J.K. Rowling,4.9,30,2017,Fiction,925412,"Harry Potter à l'École des Sorciers (Harry Potter, #1)",2070612368,4.47,2007,15,3,Gallimard Jeunesse,fre
+213,"Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter, Book 3)",J.K. Rowling,4.9,30,2017,Fiction,943082,"Harry Potter ja puoliverinen prinssi (Harry Potter, #6)",9513135071,4.57,2006,16,3,Tammi,fin
+214,"Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter, Book 3)",J.K. Rowling,4.9,30,2017,Fiction,943346,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",0939173352,4.42,1999,9,9,National Braille Press,eng
+215,"Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter, Book 3)",J.K. Rowling,4.9,30,2017,Fiction,943382,"Harry Potter ja Feeniksin kilta (Harry Potter, #5)",9513129071,4.5,2004,12,3,Tammi,fin
+216,"Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter, Book 3)",J.K. Rowling,4.9,30,2017,Fiction,988373,Complete Harry Potter Boxed Set,0747593698,4.74,2007,1,10,Bloomsbury Publishing,en-GB
+217,"Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter, Book 1)",J.K. Rowling,4.9,22,2016,Fiction,907207,ハリー・ポッターと賢者の石 (ハリー・ポッターシリーズ #1),4915512495,4.47,2003,22,10,静山社,jpn
+218,"Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter, Book 1)",J.K. Rowling,4.9,22,2016,Fiction,912224,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",0545029368,4.62,2007,1,8,Arthur A. Levine Books,eng
+219,"Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter, Book 1)",J.K. Rowling,4.9,22,2016,Fiction,925412,"Harry Potter à l'École des Sorciers (Harry Potter, #1)",2070612368,4.47,2007,15,3,Gallimard Jeunesse,fre
+220,"Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter, Book 1)",J.K. Rowling,4.9,22,2016,Fiction,943082,"Harry Potter ja puoliverinen prinssi (Harry Potter, #6)",9513135071,4.57,2006,16,3,Tammi,fin
+221,"Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter, Book 1)",J.K. Rowling,4.9,22,2016,Fiction,943346,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",0939173352,4.42,1999,9,9,National Braille Press,eng
+222,"Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter, Book 1)",J.K. Rowling,4.9,22,2016,Fiction,943382,"Harry Potter ja Feeniksin kilta (Harry Potter, #5)",9513129071,4.5,2004,12,3,Tammi,fin
+223,"Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter, Book 1)",J.K. Rowling,4.9,22,2016,Fiction,988373,Complete Harry Potter Boxed Set,0747593698,4.74,2007,1,10,Bloomsbury Publishing,en-GB
+224,The Casual Vacancy,J.K. Rowling,3.3,12,2012,Fiction,907207,ハリー・ポッターと賢者の石 (ハリー・ポッターシリーズ #1),4915512495,4.47,2003,22,10,静山社,jpn
+225,The Casual Vacancy,J.K. Rowling,3.3,12,2012,Fiction,912224,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",0545029368,4.62,2007,1,8,Arthur A. Levine Books,eng
+226,The Casual Vacancy,J.K. Rowling,3.3,12,2012,Fiction,925412,"Harry Potter à l'École des Sorciers (Harry Potter, #1)",2070612368,4.47,2007,15,3,Gallimard Jeunesse,fre
+227,The Casual Vacancy,J.K. Rowling,3.3,12,2012,Fiction,943082,"Harry Potter ja puoliverinen prinssi (Harry Potter, #6)",9513135071,4.57,2006,16,3,Tammi,fin
+228,The Casual Vacancy,J.K. Rowling,3.3,12,2012,Fiction,943346,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",0939173352,4.42,1999,9,9,National Braille Press,eng
+229,The Casual Vacancy,J.K. Rowling,3.3,12,2012,Fiction,943382,"Harry Potter ja Feeniksin kilta (Harry Potter, #5)",9513129071,4.5,2004,12,3,Tammi,fin
+230,The Casual Vacancy,J.K. Rowling,3.3,12,2012,Fiction,988373,Complete Harry Potter Boxed Set,0747593698,4.74,2007,1,10,Bloomsbury Publishing,en-GB
+231,Fear: Trump in the White House,Bob Woodward,4.4,2,2018,Non Fiction,972316,Wired: The Short Life and Fast Times of John Belushi,0671473204,3.69,1984,1,12,Simon & Schuster,eng
+232,Fear: Trump in the White House,Bob Woodward,4.4,2,2018,Non Fiction,973102,The Agenda: Inside the Clinton White House,0671864866,3.62,1994,16,6,Simon & Schuster (NYC),eng
+233,Food Rules: An Eater's Manual,Michael Pollan,4.4,9,2010,Non Fiction,923381,The Botany of Desire: A Plant's-Eye View of the World,1588360083,4.06,2001,12,6,Random House,eng
+234,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2011,Fiction,940866,Tuf Voyaging,1592220169,4.1,2003,31,12,Meisha Merlin Publishing,eng
+235,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2011,Fiction,984792,"Aces Abroad (Wild Cards, #4)",0743452410,3.78,2002,1,9,iBooks,eng
+236,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2011,Fiction,985870,"A Dance with Dragons (A Song of Ice and Fire, #5)",0002247399,4.33,2011,12,7,Harper Voyager,eng
+237,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2011,Fiction,985872,"A Storm of Swords (A Song of Ice and Fire, #3)",000710197X,4.54,2000,10,8,Voyager,eng
+238,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2011,Fiction,985873,"A Game of Thrones (A Song of Ice and Fire, #1)",,4.45,2002,28,5,Bantam Books,eng
+239,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2012,Fiction,940866,Tuf Voyaging,1592220169,4.1,2003,31,12,Meisha Merlin Publishing,eng
+240,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2012,Fiction,984792,"Aces Abroad (Wild Cards, #4)",0743452410,3.78,2002,1,9,iBooks,eng
+241,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2012,Fiction,985870,"A Dance with Dragons (A Song of Ice and Fire, #5)",0002247399,4.33,2011,12,7,Harper Voyager,eng
+242,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2012,Fiction,985872,"A Storm of Swords (A Song of Ice and Fire, #3)",000710197X,4.54,2000,10,8,Voyager,eng
+243,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2012,Fiction,985873,"A Game of Thrones (A Song of Ice and Fire, #1)",,4.45,2002,28,5,Bantam Books,eng
+244,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2013,Fiction,940866,Tuf Voyaging,1592220169,4.1,2003,31,12,Meisha Merlin Publishing,eng
+245,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2013,Fiction,984792,"Aces Abroad (Wild Cards, #4)",0743452410,3.78,2002,1,9,iBooks,eng
+246,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2013,Fiction,985870,"A Dance with Dragons (A Song of Ice and Fire, #5)",0002247399,4.33,2011,12,7,Harper Voyager,eng
+247,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2013,Fiction,985872,"A Storm of Swords (A Song of Ice and Fire, #3)",000710197X,4.54,2000,10,8,Voyager,eng
+248,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,4.6,5,2013,Fiction,985873,"A Game of Thrones (A Song of Ice and Fire, #1)",,4.45,2002,28,5,Bantam Books,eng
+249,Giraffes Can't Dance,Giles Andreae,4.8,4,2015,Fiction,970062,K Is For Kissing A Cool Kangaroo,1841212628,3.75,2003,26,6,Orchard Books,eng
+250,Giraffes Can't Dance,Giles Andreae,4.8,4,2016,Fiction,970062,K Is For Kissing A Cool Kangaroo,1841212628,3.75,2003,26,6,Orchard Books,eng
+251,Giraffes Can't Dance,Giles Andreae,4.8,4,2017,Fiction,970062,K Is For Kissing A Cool Kangaroo,1841212628,3.75,2003,26,6,Orchard Books,eng
+252,Giraffes Can't Dance,Giles Andreae,4.8,4,2018,Fiction,970062,K Is For Kissing A Cool Kangaroo,1841212628,3.75,2003,26,6,Orchard Books,eng
+253,Giraffes Can't Dance,Giles Andreae,4.8,4,2019,Fiction,970062,K Is For Kissing A Cool Kangaroo,1841212628,3.75,2003,26,6,Orchard Books,eng
+254,Go Set a Watchman: A Novel,Harper Lee,3.6,19,2015,Fiction,970917,To Kill a Mockingbird,0397001517,4.28,1961,1,1,J. B. Lippincott Company,eng
+255,Go Set a Watchman: A Novel,Harper Lee,3.6,19,2015,Fiction,988812,To Kill A Mockingbird,3883891711,4.28,2003,31,1,Petersen,eng
+256,To Kill a Mockingbird,Harper Lee,4.8,0,2013,Fiction,970917,To Kill a Mockingbird,0397001517,4.28,1961,1,1,J. B. Lippincott Company,eng
+257,To Kill a Mockingbird,Harper Lee,4.8,0,2013,Fiction,988812,To Kill A Mockingbird,3883891711,4.28,2003,31,1,Petersen,eng
+258,To Kill a Mockingbird,Harper Lee,4.8,0,2014,Fiction,970917,To Kill a Mockingbird,0397001517,4.28,1961,1,1,J. B. Lippincott Company,eng
+259,To Kill a Mockingbird,Harper Lee,4.8,0,2014,Fiction,988812,To Kill A Mockingbird,3883891711,4.28,2003,31,1,Petersen,eng
+260,To Kill a Mockingbird,Harper Lee,4.8,0,2015,Fiction,970917,To Kill a Mockingbird,0397001517,4.28,1961,1,1,J. B. Lippincott Company,eng
+261,To Kill a Mockingbird,Harper Lee,4.8,0,2015,Fiction,988812,To Kill A Mockingbird,3883891711,4.28,2003,31,1,Petersen,eng
+262,To Kill a Mockingbird,Harper Lee,4.8,0,2016,Fiction,970917,To Kill a Mockingbird,0397001517,4.28,1961,1,1,J. B. Lippincott Company,eng
+263,To Kill a Mockingbird,Harper Lee,4.8,0,2016,Fiction,988812,To Kill A Mockingbird,3883891711,4.28,2003,31,1,Petersen,eng
+264,To Kill a Mockingbird,Harper Lee,4.8,7,2019,Fiction,970917,To Kill a Mockingbird,0397001517,4.28,1961,1,1,J. B. Lippincott Company,eng
+265,To Kill a Mockingbird,Harper Lee,4.8,7,2019,Fiction,988812,To Kill A Mockingbird,3883891711,4.28,2003,31,1,Petersen,eng
+266,Gone Girl,Gillian Flynn,4.0,10,2012,Fiction,943381,Sharp Objects,0739340174,3.97,2006,26,9,RH Audio,eng
+267,Gone Girl,Gillian Flynn,4.0,10,2013,Fiction,943381,Sharp Objects,0739340174,3.97,2006,26,9,RH Audio,eng
+268,Gone Girl,Gillian Flynn,4.0,9,2014,Fiction,943381,Sharp Objects,0739340174,3.97,2006,26,9,RH Audio,eng
+269,Goodnight Moon,Margaret Wise Brown,4.8,5,2017,Fiction,908728,Another Important Book,0060262826,3.67,1999,22,9,HarperCollins,eng
+270,Goodnight Moon,Margaret Wise Brown,4.8,5,2017,Fiction,910548,A Child's Good Night Book,0694008397,3.45,1995,8,12,HarperFestival,eng
+271,Goodnight Moon,Margaret Wise Brown,4.8,5,2017,Fiction,910549,Mouse of My Heart: A Treasury of Sense and Nonsense: Mouse of My Heart,0786806281,3.98,2001,15,1,Hyperion,eng
+272,Goodnight Moon,Margaret Wise Brown,4.8,5,2017,Fiction,910552,Mi mundo: My World (Spanish edition),0066238412,3.45,2001,4,9,HarperCollins Espanol,eng
+273,Goodnight Moon,Margaret Wise Brown,4.8,5,2017,Fiction,916411,The Runaway Bunny Lap Edition,0694016713,4.11,2017,24,1,HarperFestival,en-US
+274,Goodnight Moon,Margaret Wise Brown,4.8,5,2017,Fiction,934571,The Dead Bird,0060207582,3.59,1990,1,3,HarperCollins Publishers,eng
+275,Goodnight Moon,Margaret Wise Brown,4.8,5,2018,Fiction,908728,Another Important Book,0060262826,3.67,1999,22,9,HarperCollins,eng
+276,Goodnight Moon,Margaret Wise Brown,4.8,5,2018,Fiction,910548,A Child's Good Night Book,0694008397,3.45,1995,8,12,HarperFestival,eng
+277,Goodnight Moon,Margaret Wise Brown,4.8,5,2018,Fiction,910549,Mouse of My Heart: A Treasury of Sense and Nonsense: Mouse of My Heart,0786806281,3.98,2001,15,1,Hyperion,eng
+278,Goodnight Moon,Margaret Wise Brown,4.8,5,2018,Fiction,910552,Mi mundo: My World (Spanish edition),0066238412,3.45,2001,4,9,HarperCollins Espanol,eng
+279,Goodnight Moon,Margaret Wise Brown,4.8,5,2018,Fiction,916411,The Runaway Bunny Lap Edition,0694016713,4.11,2017,24,1,HarperFestival,en-US
+280,Goodnight Moon,Margaret Wise Brown,4.8,5,2018,Fiction,934571,The Dead Bird,0060207582,3.59,1990,1,3,HarperCollins Publishers,eng
+281,Goodnight Moon,Margaret Wise Brown,4.8,5,2019,Fiction,908728,Another Important Book,0060262826,3.67,1999,22,9,HarperCollins,eng
+282,Goodnight Moon,Margaret Wise Brown,4.8,5,2019,Fiction,910548,A Child's Good Night Book,0694008397,3.45,1995,8,12,HarperFestival,eng
+283,Goodnight Moon,Margaret Wise Brown,4.8,5,2019,Fiction,910549,Mouse of My Heart: A Treasury of Sense and Nonsense: Mouse of My Heart,0786806281,3.98,2001,15,1,Hyperion,eng
+284,Goodnight Moon,Margaret Wise Brown,4.8,5,2019,Fiction,910552,Mi mundo: My World (Spanish edition),0066238412,3.45,2001,4,9,HarperCollins Espanol,eng
+285,Goodnight Moon,Margaret Wise Brown,4.8,5,2019,Fiction,916411,The Runaway Bunny Lap Edition,0694016713,4.11,2017,24,1,HarperFestival,en-US
+286,Goodnight Moon,Margaret Wise Brown,4.8,5,2019,Fiction,934571,The Dead Bird,0060207582,3.59,1990,1,3,HarperCollins Publishers,eng
+287,Have a Little Faith: A True Story,Mitch Albom,4.8,4,2009,Non Fiction,928044,The Five People You Meet in Heaven,1401384056,3.94,2006,1,3,Hyperion,en-US
+288,Have a Little Faith: A True Story,Mitch Albom,4.8,4,2009,Non Fiction,928045,For One More Day,1401387241,4.1,2006,26,9,Hyperion,en-US
+289,Have a Little Faith: A True Story,Mitch Albom,4.8,4,2009,Non Fiction,955847,"Tuesdays with Morrie: an old man, a young man, and life's greatest lesson",1590866347,4.11,2002,8,10,Brilliance Audio,eng
+290,How to Win Friends & Influence People,Dale Carnegie,4.7,11,2014,Non Fiction,932441,The Leader in You,067188011X,4.09,1994,2,1,Simon & Schuster Audio,eng
+291,How to Win Friends & Influence People,Dale Carnegie,4.7,11,2015,Non Fiction,932441,The Leader in You,067188011X,4.09,1994,2,1,Simon & Schuster Audio,eng
+292,How to Win Friends & Influence People,Dale Carnegie,4.7,11,2016,Non Fiction,932441,The Leader in You,067188011X,4.09,1994,2,1,Simon & Schuster Audio,eng
+293,How to Win Friends & Influence People,Dale Carnegie,4.7,11,2017,Non Fiction,932441,The Leader in You,067188011X,4.09,1994,2,1,Simon & Schuster Audio,eng
+294,How to Win Friends & Influence People,Dale Carnegie,4.7,11,2018,Non Fiction,932441,The Leader in You,067188011X,4.09,1994,2,1,Simon & Schuster Audio,eng
+295,"I, Alex Cross",James Patterson,4.6,7,2009,Fiction,919582,"3rd Degree (Women's Murder Club, #3)",0316603570,4.02,2004,1,3,Little Brown and Company,eng
+296,"I, Alex Cross",James Patterson,4.6,7,2009,Fiction,928943,The 6th Target (Women's Murder Club #6),0755330366,4.04,2007,19,4,Headline,eng
+297,"I, Alex Cross",James Patterson,4.6,7,2009,Fiction,929670,The Quickie,0446581747,3.83,2007,3,7,Grand Central Publishing,eng
+298,"I, Alex Cross",James Patterson,4.6,7,2009,Fiction,938059,The 5th Horseman (Women's Murder Club #5),0316154776,4.06,2006,13,2,Little Brown and Company,eng
+299,"I, Alex Cross",James Patterson,4.6,7,2009,Fiction,952769,"The Angel Experiment (Maximum Ride, #1)",031615556X,4.08,2005,11,4,"Little, Brown and Company",en-US
+300,"I, Alex Cross",James Patterson,4.6,7,2009,Fiction,955157,"Saving the World and Other Extreme Sports (Maximum Ride, #3)",0446194042,4.15,2008,1,2,Grand Central Publishing,en-US
+301,"I, Alex Cross",James Patterson,4.6,7,2009,Fiction,963061,Honeymoon,0755305760,3.83,2005,31,1,Headline,eng
+302,The President Is Missing: A Novel,James Patterson,4.3,18,2018,Fiction,919582,"3rd Degree (Women's Murder Club, #3)",0316603570,4.02,2004,1,3,Little Brown and Company,eng
+303,The President Is Missing: A Novel,James Patterson,4.3,18,2018,Fiction,928943,The 6th Target (Women's Murder Club #6),0755330366,4.04,2007,19,4,Headline,eng
+304,The President Is Missing: A Novel,James Patterson,4.3,18,2018,Fiction,929670,The Quickie,0446581747,3.83,2007,3,7,Grand Central Publishing,eng
+305,The President Is Missing: A Novel,James Patterson,4.3,18,2018,Fiction,938059,The 5th Horseman (Women's Murder Club #5),0316154776,4.06,2006,13,2,Little Brown and Company,eng
+306,The President Is Missing: A Novel,James Patterson,4.3,18,2018,Fiction,952769,"The Angel Experiment (Maximum Ride, #1)",031615556X,4.08,2005,11,4,"Little, Brown and Company",en-US
+307,The President Is Missing: A Novel,James Patterson,4.3,18,2018,Fiction,955157,"Saving the World and Other Extreme Sports (Maximum Ride, #3)",0446194042,4.15,2008,1,2,Grand Central Publishing,en-US
+308,The President Is Missing: A Novel,James Patterson,4.3,18,2018,Fiction,963061,Honeymoon,0755305760,3.83,2005,31,1,Headline,eng
+309,Inferno,Dan Brown,4.1,14,2013,Fiction,946168,"Da Vinci Code (Robert Langdon, #2)",2709624931,3.85,2004,3,3,JC Lattès,fre
+310,Inferno,Dan Brown,4.1,14,2013,Fiction,970381,"Angels & Demons (Robert Langdon, #1)",0743277716,3.9,2006,28,3,Washington Square Press,eng
+311,Inferno,Dan Brown,4.1,14,2013,Fiction,998867,Anges et Démons,2266144359,3.9,2007,4,1,JC Lattes,fre
+312,Inferno,Dan Brown,4.1,14,2013,Fiction,998876,"Anges et Démons (Robert Langdon, #1)",2709625792,3.9,2005,3,3,JC Lattès,fre
+313,Inferno,Dan Brown,4.1,14,2013,Fiction,998877,"The Da Vinci Code (Robert Langdon, #2)",0739307312,3.85,2003,7,4,Random House Audio Publishing Group,eng
+314,Inferno,Dan Brown,4.1,14,2013,Fiction,998880,Angels & Demons,074349346X,3.9,2006,23,5,Washington Square Press,eng
+315,Origin: A Novel (Robert Langdon),Dan Brown,4.3,13,2017,Fiction,946168,"Da Vinci Code (Robert Langdon, #2)",2709624931,3.85,2004,3,3,JC Lattès,fre
+316,Origin: A Novel (Robert Langdon),Dan Brown,4.3,13,2017,Fiction,970381,"Angels & Demons (Robert Langdon, #1)",0743277716,3.9,2006,28,3,Washington Square Press,eng
+317,Origin: A Novel (Robert Langdon),Dan Brown,4.3,13,2017,Fiction,998867,Anges et Démons,2266144359,3.9,2007,4,1,JC Lattes,fre
+318,Origin: A Novel (Robert Langdon),Dan Brown,4.3,13,2017,Fiction,998876,"Anges et Démons (Robert Langdon, #1)",2709625792,3.9,2005,3,3,JC Lattès,fre
+319,Origin: A Novel (Robert Langdon),Dan Brown,4.3,13,2017,Fiction,998877,"The Da Vinci Code (Robert Langdon, #2)",0739307312,3.85,2003,7,4,Random House Audio Publishing Group,eng
+320,Origin: A Novel (Robert Langdon),Dan Brown,4.3,13,2017,Fiction,998880,Angels & Demons,074349346X,3.9,2006,23,5,Washington Square Press,eng
+321,The Lost Symbol,Dan Brown,4.2,19,2009,Fiction,946168,"Da Vinci Code (Robert Langdon, #2)",2709624931,3.85,2004,3,3,JC Lattès,fre
+322,The Lost Symbol,Dan Brown,4.2,19,2009,Fiction,970381,"Angels & Demons (Robert Langdon, #1)",0743277716,3.9,2006,28,3,Washington Square Press,eng
+323,The Lost Symbol,Dan Brown,4.2,19,2009,Fiction,998867,Anges et Démons,2266144359,3.9,2007,4,1,JC Lattes,fre
+324,The Lost Symbol,Dan Brown,4.2,19,2009,Fiction,998876,"Anges et Démons (Robert Langdon, #1)",2709625792,3.9,2005,3,3,JC Lattès,fre
+325,The Lost Symbol,Dan Brown,4.2,19,2009,Fiction,998877,"The Da Vinci Code (Robert Langdon, #2)",0739307312,3.85,2003,7,4,Random House Audio Publishing Group,eng
+326,The Lost Symbol,Dan Brown,4.2,19,2009,Fiction,998880,Angels & Demons,074349346X,3.9,2006,23,5,Washington Square Press,eng
+327,Liberty and Tyranny: A Conservative Manifesto,Mark R. Levin,4.8,15,2009,Non Fiction,994192,Rescuing Sprite: A Dog Lover's Story of Joy and Anguish,1416559132,3.93,2007,6,11,Threshold Editions,en-US
+328,Unfreedom of the Press,Mark R. Levin,4.9,11,2019,Non Fiction,994192,Rescuing Sprite: A Dog Lover's Story of Joy and Anguish,1416559132,3.93,2007,6,11,Threshold Editions,en-US
+329,Looking for Alaska,John Green,4.5,7,2014,Fiction,934301,Looking for Alaska,0007209258,4.03,2006,3,7,HarperCollins Children's Books,en-GB
+330,Looking for Alaska,John Green,4.5,7,2014,Fiction,954903,Buscando a Alaska,9702008581,4.03,2006,26,12,Castillo,eng
+331,The Fault in Our Stars,John Green,4.7,13,2012,Fiction,934301,Looking for Alaska,0007209258,4.03,2006,3,7,HarperCollins Children's Books,en-GB
+332,The Fault in Our Stars,John Green,4.7,13,2012,Fiction,954903,Buscando a Alaska,9702008581,4.03,2006,26,12,Castillo,eng
+333,The Fault in Our Stars,John Green,4.7,13,2013,Fiction,934301,Looking for Alaska,0007209258,4.03,2006,3,7,HarperCollins Children's Books,en-GB
+334,The Fault in Our Stars,John Green,4.7,13,2013,Fiction,954903,Buscando a Alaska,9702008581,4.03,2006,26,12,Castillo,eng
+335,The Fault in Our Stars,John Green,4.7,7,2014,Fiction,934301,Looking for Alaska,0007209258,4.03,2006,3,7,HarperCollins Children's Books,en-GB
+336,The Fault in Our Stars,John Green,4.7,7,2014,Fiction,954903,Buscando a Alaska,9702008581,4.03,2006,26,12,Castillo,eng
+337,The Fault in Our Stars,John Green,4.7,13,2014,Fiction,934301,Looking for Alaska,0007209258,4.03,2006,3,7,HarperCollins Children's Books,en-GB
+338,The Fault in Our Stars,John Green,4.7,13,2014,Fiction,954903,Buscando a Alaska,9702008581,4.03,2006,26,12,Castillo,eng
+339,Love You Forever,Robert Munsch,4.8,5,2014,Fiction,900210,Je t'aimerai toujours,0920668496,4.36,1988,1,7,Firefly Books,eng
+340,Love You Forever,Robert Munsch,4.8,5,2014,Fiction,900230,Moira's Birthday,0920303838,3.97,1987,1,5,Annick Press,eng
+341,Love You Forever,Robert Munsch,4.8,5,2014,Fiction,900233,Lighthouse: A Story Of Remembrance,0439490316,4.07,2003,1,11,Cartwheel,eng
+342,Love You Forever,Robert Munsch,4.8,5,2014,Fiction,900239,Where is Gah-Ning?,1550379828,3.71,1994,1,5,Annick Press,eng
+343,Love You Forever,Robert Munsch,4.8,5,2014,Fiction,934713,Something Good,1550373900,4.06,1995,1,2,Annick Press,en-US
+344,Love You Forever,Robert Munsch,4.8,5,2015,Fiction,900210,Je t'aimerai toujours,0920668496,4.36,1988,1,7,Firefly Books,eng
+345,Love You Forever,Robert Munsch,4.8,5,2015,Fiction,900230,Moira's Birthday,0920303838,3.97,1987,1,5,Annick Press,eng
+346,Love You Forever,Robert Munsch,4.8,5,2015,Fiction,900233,Lighthouse: A Story Of Remembrance,0439490316,4.07,2003,1,11,Cartwheel,eng
+347,Love You Forever,Robert Munsch,4.8,5,2015,Fiction,900239,Where is Gah-Ning?,1550379828,3.71,1994,1,5,Annick Press,eng
+348,Love You Forever,Robert Munsch,4.8,5,2015,Fiction,934713,Something Good,1550373900,4.06,1995,1,2,Annick Press,en-US
+349,"Mastering the Art of French Cooking, Vol. 2",Julia Child,4.8,27,2009,Non Fiction,953360,In Julia's Kitchen with Master Chefs,0679438963,4.15,1995,11,4,Knopf,en-US
+350,Night (Night),Elie Wiesel,4.7,9,2016,Non Fiction,957883,Passover Haggadah,0671799967,4.2,1993,1,3,Simon  Schuster,eng
+351,Night (Night),Elie Wiesel,4.7,9,2016,Non Fiction,957899,Four Hasidic Masters and Their Struggle against Melancholy,0268009473,4.13,1987,31,8,University of Notre Dame Press,eng
+352,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2012,Fiction,900821,The Lorax,0394923375,4.35,1971,12,8,Random House Books for Young Readers,eng
+353,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2012,Fiction,909016,Hop on Pop,0375828370,3.98,2004,27,1,Random House Books for Young Readers,en-US
+354,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2012,Fiction,930328,Silly Opposites: A Lift The Flap Book,0007169442,4.21,2003,3,11,Collins,eng
+355,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2012,Fiction,934142,The Complete Cat In The Hat,0007247885,4.15,2007,1,1,HarperCollins Children's Books,eng
+356,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2012,Fiction,934159,My Many Coloured Days,0099266598,4.25,2001,3,5,Red Fox,eng
+357,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2012,Fiction,934684,The Foot Book,0394809378,4.02,1968,12,10,Random House Books for Young Readers,eng
+358,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2012,Fiction,934685,There's a Wocket in my Pocket!,0394829204,4.03,1974,12,8,Random House,en-US
+359,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2012,Fiction,949048,Horton Hears a Who! Can You?,0375843248,4.18,2008,22,1,Random House Books for Young Readers,eng
+360,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2013,Fiction,900821,The Lorax,0394923375,4.35,1971,12,8,Random House Books for Young Readers,eng
+361,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2013,Fiction,909016,Hop on Pop,0375828370,3.98,2004,27,1,Random House Books for Young Readers,en-US
+362,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2013,Fiction,930328,Silly Opposites: A Lift The Flap Book,0007169442,4.21,2003,3,11,Collins,eng
+363,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2013,Fiction,934142,The Complete Cat In The Hat,0007247885,4.15,2007,1,1,HarperCollins Children's Books,eng
+364,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2013,Fiction,934159,My Many Coloured Days,0099266598,4.25,2001,3,5,Red Fox,eng
+365,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2013,Fiction,934684,The Foot Book,0394809378,4.02,1968,12,10,Random House Books for Young Readers,eng
+366,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2013,Fiction,934685,There's a Wocket in my Pocket!,0394829204,4.03,1974,12,8,Random House,en-US
+367,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2013,Fiction,949048,Horton Hears a Who! Can You?,0375843248,4.18,2008,22,1,Random House Books for Young Readers,eng
+368,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2014,Fiction,900821,The Lorax,0394923375,4.35,1971,12,8,Random House Books for Young Readers,eng
+369,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2014,Fiction,909016,Hop on Pop,0375828370,3.98,2004,27,1,Random House Books for Young Readers,en-US
+370,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2014,Fiction,930328,Silly Opposites: A Lift The Flap Book,0007169442,4.21,2003,3,11,Collins,eng
+371,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2014,Fiction,934142,The Complete Cat In The Hat,0007247885,4.15,2007,1,1,HarperCollins Children's Books,eng
+372,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2014,Fiction,934159,My Many Coloured Days,0099266598,4.25,2001,3,5,Red Fox,eng
+373,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2014,Fiction,934684,The Foot Book,0394809378,4.02,1968,12,10,Random House Books for Young Readers,eng
+374,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2014,Fiction,934685,There's a Wocket in my Pocket!,0394829204,4.03,1974,12,8,Random House,en-US
+375,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2014,Fiction,949048,Horton Hears a Who! Can You?,0375843248,4.18,2008,22,1,Random House Books for Young Readers,eng
+376,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2015,Fiction,900821,The Lorax,0394923375,4.35,1971,12,8,Random House Books for Young Readers,eng
+377,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2015,Fiction,909016,Hop on Pop,0375828370,3.98,2004,27,1,Random House Books for Young Readers,en-US
+378,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2015,Fiction,930328,Silly Opposites: A Lift The Flap Book,0007169442,4.21,2003,3,11,Collins,eng
+379,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2015,Fiction,934142,The Complete Cat In The Hat,0007247885,4.15,2007,1,1,HarperCollins Children's Books,eng
+380,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2015,Fiction,934159,My Many Coloured Days,0099266598,4.25,2001,3,5,Red Fox,eng
+381,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2015,Fiction,934684,The Foot Book,0394809378,4.02,1968,12,10,Random House Books for Young Readers,eng
+382,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2015,Fiction,934685,There's a Wocket in my Pocket!,0394829204,4.03,1974,12,8,Random House,en-US
+383,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2015,Fiction,949048,Horton Hears a Who! Can You?,0375843248,4.18,2008,22,1,Random House Books for Young Readers,eng
+384,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2016,Fiction,900821,The Lorax,0394923375,4.35,1971,12,8,Random House Books for Young Readers,eng
+385,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2016,Fiction,909016,Hop on Pop,0375828370,3.98,2004,27,1,Random House Books for Young Readers,en-US
+386,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2016,Fiction,930328,Silly Opposites: A Lift The Flap Book,0007169442,4.21,2003,3,11,Collins,eng
+387,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2016,Fiction,934142,The Complete Cat In The Hat,0007247885,4.15,2007,1,1,HarperCollins Children's Books,eng
+388,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2016,Fiction,934159,My Many Coloured Days,0099266598,4.25,2001,3,5,Red Fox,eng
+389,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2016,Fiction,934684,The Foot Book,0394809378,4.02,1968,12,10,Random House Books for Young Readers,eng
+390,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2016,Fiction,934685,There's a Wocket in my Pocket!,0394829204,4.03,1974,12,8,Random House,en-US
+391,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2016,Fiction,949048,Horton Hears a Who! Can You?,0375843248,4.18,2008,22,1,Random House Books for Young Readers,eng
+392,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2017,Fiction,900821,The Lorax,0394923375,4.35,1971,12,8,Random House Books for Young Readers,eng
+393,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2017,Fiction,909016,Hop on Pop,0375828370,3.98,2004,27,1,Random House Books for Young Readers,en-US
+394,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2017,Fiction,930328,Silly Opposites: A Lift The Flap Book,0007169442,4.21,2003,3,11,Collins,eng
+395,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2017,Fiction,934142,The Complete Cat In The Hat,0007247885,4.15,2007,1,1,HarperCollins Children's Books,eng
+396,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2017,Fiction,934159,My Many Coloured Days,0099266598,4.25,2001,3,5,Red Fox,eng
+397,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2017,Fiction,934684,The Foot Book,0394809378,4.02,1968,12,10,Random House Books for Young Readers,eng
+398,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2017,Fiction,934685,There's a Wocket in my Pocket!,0394829204,4.03,1974,12,8,Random House,en-US
+399,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2017,Fiction,949048,Horton Hears a Who! Can You?,0375843248,4.18,2008,22,1,Random House Books for Young Readers,eng
+400,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2018,Fiction,900821,The Lorax,0394923375,4.35,1971,12,8,Random House Books for Young Readers,eng
+401,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2018,Fiction,909016,Hop on Pop,0375828370,3.98,2004,27,1,Random House Books for Young Readers,en-US
+402,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2018,Fiction,930328,Silly Opposites: A Lift The Flap Book,0007169442,4.21,2003,3,11,Collins,eng
+403,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2018,Fiction,934142,The Complete Cat In The Hat,0007247885,4.15,2007,1,1,HarperCollins Children's Books,eng
+404,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2018,Fiction,934159,My Many Coloured Days,0099266598,4.25,2001,3,5,Red Fox,eng
+405,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2018,Fiction,934684,The Foot Book,0394809378,4.02,1968,12,10,Random House Books for Young Readers,eng
+406,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2018,Fiction,934685,There's a Wocket in my Pocket!,0394829204,4.03,1974,12,8,Random House,en-US
+407,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2018,Fiction,949048,Horton Hears a Who! Can You?,0375843248,4.18,2008,22,1,Random House Books for Young Readers,eng
+408,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2019,Fiction,900821,The Lorax,0394923375,4.35,1971,12,8,Random House Books for Young Readers,eng
+409,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2019,Fiction,909016,Hop on Pop,0375828370,3.98,2004,27,1,Random House Books for Young Readers,en-US
+410,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2019,Fiction,930328,Silly Opposites: A Lift The Flap Book,0007169442,4.21,2003,3,11,Collins,eng
+411,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2019,Fiction,934142,The Complete Cat In The Hat,0007247885,4.15,2007,1,1,HarperCollins Children's Books,eng
+412,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2019,Fiction,934159,My Many Coloured Days,0099266598,4.25,2001,3,5,Red Fox,eng
+413,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2019,Fiction,934684,The Foot Book,0394809378,4.02,1968,12,10,Random House Books for Young Readers,eng
+414,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2019,Fiction,934685,There's a Wocket in my Pocket!,0394829204,4.03,1974,12,8,Random House,en-US
+415,"Oh, the Places You'll Go!",Dr. Seuss,4.9,8,2019,Fiction,949048,Horton Hears a Who! Can You?,0375843248,4.18,2008,22,1,Random House Books for Young Readers,eng
+416,What Pet Should I Get? (Classic Seuss),Dr. Seuss,4.7,14,2015,Fiction,900821,The Lorax,0394923375,4.35,1971,12,8,Random House Books for Young Readers,eng
+417,What Pet Should I Get? (Classic Seuss),Dr. Seuss,4.7,14,2015,Fiction,909016,Hop on Pop,0375828370,3.98,2004,27,1,Random House Books for Young Readers,en-US
+418,What Pet Should I Get? (Classic Seuss),Dr. Seuss,4.7,14,2015,Fiction,930328,Silly Opposites: A Lift The Flap Book,0007169442,4.21,2003,3,11,Collins,eng
+419,What Pet Should I Get? (Classic Seuss),Dr. Seuss,4.7,14,2015,Fiction,934142,The Complete Cat In The Hat,0007247885,4.15,2007,1,1,HarperCollins Children's Books,eng
+420,What Pet Should I Get? (Classic Seuss),Dr. Seuss,4.7,14,2015,Fiction,934159,My Many Coloured Days,0099266598,4.25,2001,3,5,Red Fox,eng
+421,What Pet Should I Get? (Classic Seuss),Dr. Seuss,4.7,14,2015,Fiction,934684,The Foot Book,0394809378,4.02,1968,12,10,Random House Books for Young Readers,eng
+422,What Pet Should I Get? (Classic Seuss),Dr. Seuss,4.7,14,2015,Fiction,934685,There's a Wocket in my Pocket!,0394829204,4.03,1974,12,8,Random House,en-US
+423,What Pet Should I Get? (Classic Seuss),Dr. Seuss,4.7,14,2015,Fiction,949048,Horton Hears a Who! Can You?,0375843248,4.18,2008,22,1,Random House Books for Young Readers,eng
+424,Puppy Birthday to You! (Paw Patrol) (Little Golden Book),Golden Books,4.8,4,2017,Fiction,977866,Dora: Going to a Party (Posters to Color),030720216X,0.0,2002,12,3,Golden Books,eng
+425,Puppy Birthday to You! (Paw Patrol) (Little Golden Book),Golden Books,4.8,4,2017,Fiction,979592,Spring Fun Has Just Begun (Stickerific),0375826645,0.0,2004,13,1,Golden Books,eng
+426,Puppy Birthday to You! (Paw Patrol) (Little Golden Book),Golden Books,4.8,4,2017,Fiction,983803,I Know Numbers (Preschool),0307036715,5.0,1999,13,8,Golden Books,eng
+427,Puppy Birthday to You! (Paw Patrol) (Little Golden Book),Golden Books,4.8,4,2017,Fiction,988112,Little Red Hen (A Golden Super Shape Classic),0307100979,3.62,1990,1,2,Golden Books,eng
+428,Puppy Birthday to You! (Paw Patrol) (Little Golden Book),Golden Books,4.8,4,2017,Fiction,988162,Saggy Baggy Elephant's Great Big Counting Book,0307104427,3.0,1983,30,6,Golden books,eng
+429,"Super Freakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance",Steven D. Levitt,4.5,18,2009,Non Fiction,945976,Freakonomics,0141030089,3.98,2006,5,10,Penguin,eng
+430,"Super Freakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance",Steven D. Levitt,4.5,18,2009,Non Fiction,945979,Freakonomics Om,0141025808,3.98,2006,1,4,Penguin UK,eng
+431,"Super Freakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance",Steven D. Levitt,4.5,18,2009,Non Fiction,984616,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,0060776137,3.98,2005,1,5,HarperAudio,eng
+432,Sycamore Row (Jake Brigance),John Grisham,4.5,18,2013,Fiction,909387,La Firme,2266056921,4.07,1994,1,6,Distribooks Inc,fre
+433,Sycamore Row (Jake Brigance),John Grisham,4.5,18,2013,Fiction,914901,A Time to Kill,0385471122,4.07,1993,1,10,Bantam Dell Pub Group (Trd),eng
+434,Sycamore Row (Jake Brigance),John Grisham,4.5,18,2013,Fiction,931362,The Partner,0385472951,3.92,1997,26,2,Doubleday,eng
+435,Sycamore Row (Jake Brigance),John Grisham,4.5,18,2013,Fiction,933371,The Chamber,0582364116,3.79,2000,1,1,Addison Wesley Publishing Company,eng
+436,Sycamore Row (Jake Brigance),John Grisham,4.5,18,2013,Fiction,970877,The Innocent Man: Murder and Injustice in a Small Town,0739326732,3.82,2006,10,10,Random House Large Print Publishing,eng
+437,Sycamore Row (Jake Brigance),John Grisham,4.5,18,2013,Fiction,976010,The Rainmaker,037543352X,3.94,2005,4,1,Random House Large Print,eng
+438,Sycamore Row (Jake Brigance),John Grisham,4.5,18,2013,Fiction,984001,A Painted House,0375728120,3.71,2004,3,2,Random House Large Print Publishing,eng
+439,Sycamore Row (Jake Brigance),John Grisham,4.5,18,2013,Fiction,993054,The Summons,0385503822,3.69,2002,5,2,Doubleday Books,eng
+440,Sycamore Row (Jake Brigance),John Grisham,4.5,18,2013,Fiction,993065,Het testament,9022984338,3.86,1999,1,1,A.W. Bruna Uitgevers,nl
+441,The Confession: A Novel,John Grisham,4.3,13,2010,Fiction,909387,La Firme,2266056921,4.07,1994,1,6,Distribooks Inc,fre
+442,The Confession: A Novel,John Grisham,4.3,13,2010,Fiction,914901,A Time to Kill,0385471122,4.07,1993,1,10,Bantam Dell Pub Group (Trd),eng
+443,The Confession: A Novel,John Grisham,4.3,13,2010,Fiction,931362,The Partner,0385472951,3.92,1997,26,2,Doubleday,eng
+444,The Confession: A Novel,John Grisham,4.3,13,2010,Fiction,933371,The Chamber,0582364116,3.79,2000,1,1,Addison Wesley Publishing Company,eng
+445,The Confession: A Novel,John Grisham,4.3,13,2010,Fiction,970877,The Innocent Man: Murder and Injustice in a Small Town,0739326732,3.82,2006,10,10,Random House Large Print Publishing,eng
+446,The Confession: A Novel,John Grisham,4.3,13,2010,Fiction,976010,The Rainmaker,037543352X,3.94,2005,4,1,Random House Large Print,eng
+447,The Confession: A Novel,John Grisham,4.3,13,2010,Fiction,984001,A Painted House,0375728120,3.71,2004,3,2,Random House Large Print Publishing,eng
+448,The Confession: A Novel,John Grisham,4.3,13,2010,Fiction,993054,The Summons,0385503822,3.69,2002,5,2,Doubleday Books,eng
+449,The Confession: A Novel,John Grisham,4.3,13,2010,Fiction,993065,Het testament,9022984338,3.86,1999,1,1,A.W. Bruna Uitgevers,nl
+450,The Guardians: A Novel,John Grisham,4.5,14,2019,Fiction,909387,La Firme,2266056921,4.07,1994,1,6,Distribooks Inc,fre
+451,The Guardians: A Novel,John Grisham,4.5,14,2019,Fiction,914901,A Time to Kill,0385471122,4.07,1993,1,10,Bantam Dell Pub Group (Trd),eng
+452,The Guardians: A Novel,John Grisham,4.5,14,2019,Fiction,931362,The Partner,0385472951,3.92,1997,26,2,Doubleday,eng
+453,The Guardians: A Novel,John Grisham,4.5,14,2019,Fiction,933371,The Chamber,0582364116,3.79,2000,1,1,Addison Wesley Publishing Company,eng
+454,The Guardians: A Novel,John Grisham,4.5,14,2019,Fiction,970877,The Innocent Man: Murder and Injustice in a Small Town,0739326732,3.82,2006,10,10,Random House Large Print Publishing,eng
+455,The Guardians: A Novel,John Grisham,4.5,14,2019,Fiction,976010,The Rainmaker,037543352X,3.94,2005,4,1,Random House Large Print,eng
+456,The Guardians: A Novel,John Grisham,4.5,14,2019,Fiction,984001,A Painted House,0375728120,3.71,2004,3,2,Random House Large Print Publishing,eng
+457,The Guardians: A Novel,John Grisham,4.5,14,2019,Fiction,993054,The Summons,0385503822,3.69,2002,5,2,Doubleday Books,eng
+458,The Guardians: A Novel,John Grisham,4.5,14,2019,Fiction,993065,Het testament,9022984338,3.86,1999,1,1,A.W. Bruna Uitgevers,nl
+459,The Litigators,John Grisham,4.4,18,2011,Fiction,909387,La Firme,2266056921,4.07,1994,1,6,Distribooks Inc,fre
+460,The Litigators,John Grisham,4.4,18,2011,Fiction,914901,A Time to Kill,0385471122,4.07,1993,1,10,Bantam Dell Pub Group (Trd),eng
+461,The Litigators,John Grisham,4.4,18,2011,Fiction,931362,The Partner,0385472951,3.92,1997,26,2,Doubleday,eng
+462,The Litigators,John Grisham,4.4,18,2011,Fiction,933371,The Chamber,0582364116,3.79,2000,1,1,Addison Wesley Publishing Company,eng
+463,The Litigators,John Grisham,4.4,18,2011,Fiction,970877,The Innocent Man: Murder and Injustice in a Small Town,0739326732,3.82,2006,10,10,Random House Large Print Publishing,eng
+464,The Litigators,John Grisham,4.4,18,2011,Fiction,976010,The Rainmaker,037543352X,3.94,2005,4,1,Random House Large Print,eng
+465,The Litigators,John Grisham,4.4,18,2011,Fiction,984001,A Painted House,0375728120,3.71,2004,3,2,Random House Large Print Publishing,eng
+466,The Litigators,John Grisham,4.4,18,2011,Fiction,993054,The Summons,0385503822,3.69,2002,5,2,Doubleday Books,eng
+467,The Litigators,John Grisham,4.4,18,2011,Fiction,993065,Het testament,9022984338,3.86,1999,1,1,A.W. Bruna Uitgevers,nl
+468,The Racketeer,John Grisham,4.3,18,2012,Fiction,909387,La Firme,2266056921,4.07,1994,1,6,Distribooks Inc,fre
+469,The Racketeer,John Grisham,4.3,18,2012,Fiction,914901,A Time to Kill,0385471122,4.07,1993,1,10,Bantam Dell Pub Group (Trd),eng
+470,The Racketeer,John Grisham,4.3,18,2012,Fiction,931362,The Partner,0385472951,3.92,1997,26,2,Doubleday,eng
+471,The Racketeer,John Grisham,4.3,18,2012,Fiction,933371,The Chamber,0582364116,3.79,2000,1,1,Addison Wesley Publishing Company,eng
+472,The Racketeer,John Grisham,4.3,18,2012,Fiction,970877,The Innocent Man: Murder and Injustice in a Small Town,0739326732,3.82,2006,10,10,Random House Large Print Publishing,eng
+473,The Racketeer,John Grisham,4.3,18,2012,Fiction,976010,The Rainmaker,037543352X,3.94,2005,4,1,Random House Large Print,eng
+474,The Racketeer,John Grisham,4.3,18,2012,Fiction,984001,A Painted House,0375728120,3.71,2004,3,2,Random House Large Print Publishing,eng
+475,The Racketeer,John Grisham,4.3,18,2012,Fiction,993054,The Summons,0385503822,3.69,2002,5,2,Doubleday Books,eng
+476,The Racketeer,John Grisham,4.3,18,2012,Fiction,993065,Het testament,9022984338,3.86,1999,1,1,A.W. Bruna Uitgevers,nl
+477,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,4.7,28,2010,Non Fiction,910501,The Love Languages of God - CD,188127358X,3.88,2003,1,2,Northfield Publishing,eng
+478,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,4.7,28,2010,Non Fiction,989897,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1589269063,4.25,2005,20,2,Authentic Media,eng
+479,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,4.7,28,2011,Non Fiction,910501,The Love Languages of God - CD,188127358X,3.88,2003,1,2,Northfield Publishing,eng
+480,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,4.7,28,2011,Non Fiction,989897,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1589269063,4.25,2005,20,2,Authentic Media,eng
+481,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,4.7,28,2012,Non Fiction,910501,The Love Languages of God - CD,188127358X,3.88,2003,1,2,Northfield Publishing,eng
+482,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,4.7,28,2012,Non Fiction,989897,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1589269063,4.25,2005,20,2,Authentic Media,eng
+483,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,4.7,28,2013,Non Fiction,910501,The Love Languages of God - CD,188127358X,3.88,2003,1,2,Northfield Publishing,eng
+484,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,4.7,28,2013,Non Fiction,989897,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1589269063,4.25,2005,20,2,Authentic Media,eng
+485,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,4.7,28,2014,Non Fiction,910501,The Love Languages of God - CD,188127358X,3.88,2003,1,2,Northfield Publishing,eng
+486,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,4.7,28,2014,Non Fiction,989897,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1589269063,4.25,2005,20,2,Authentic Media,eng
+487,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.8,8,2015,Non Fiction,910501,The Love Languages of God - CD,188127358X,3.88,2003,1,2,Northfield Publishing,eng
+488,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.8,8,2015,Non Fiction,989897,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1589269063,4.25,2005,20,2,Authentic Media,eng
+489,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.8,8,2016,Non Fiction,910501,The Love Languages of God - CD,188127358X,3.88,2003,1,2,Northfield Publishing,eng
+490,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.8,8,2016,Non Fiction,989897,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1589269063,4.25,2005,20,2,Authentic Media,eng
+491,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.8,8,2017,Non Fiction,910501,The Love Languages of God - CD,188127358X,3.88,2003,1,2,Northfield Publishing,eng
+492,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.8,8,2017,Non Fiction,989897,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1589269063,4.25,2005,20,2,Authentic Media,eng
+493,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.8,8,2018,Non Fiction,910501,The Love Languages of God - CD,188127358X,3.88,2003,1,2,Northfield Publishing,eng
+494,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.8,8,2018,Non Fiction,989897,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1589269063,4.25,2005,20,2,Authentic Media,eng
+495,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.8,8,2019,Non Fiction,910501,The Love Languages of God - CD,188127358X,3.88,2003,1,2,Northfield Publishing,eng
+496,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.8,8,2019,Non Fiction,989897,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1589269063,4.25,2005,20,2,Authentic Media,eng
+497,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,4.6,9,2009,Non Fiction,910501,The Love Languages of God - CD,188127358X,3.88,2003,1,2,Northfield Publishing,eng
+498,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,4.6,9,2009,Non Fiction,989897,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1589269063,4.25,2005,20,2,Authentic Media,eng
+499,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2009,Non Fiction,935728,Focus: Achieving Your Highest Priorities,1929494696,3.87,2011,1,10,Franklin Covey,eng
+500,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2009,Non Fiction,935734,Before I Do Math (Preschool) (Step Ahead),0307035972,4.2,2000,7,6,Golden Books,eng
+501,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2009,Non Fiction,935736,The Four Disciplines of Execution,1929494777,4.02,2004,25,5,Covey,eng
+502,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2009,Non Fiction,989094,"Passion For Life (Quest Passion for Life Series, V. 1)",0743521056,4.4,2002,1,3,Simon & Schuster Audio,eng
+503,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2011,Non Fiction,935728,Focus: Achieving Your Highest Priorities,1929494696,3.87,2011,1,10,Franklin Covey,eng
+504,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2011,Non Fiction,935734,Before I Do Math (Preschool) (Step Ahead),0307035972,4.2,2000,7,6,Golden Books,eng
+505,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2011,Non Fiction,935736,The Four Disciplines of Execution,1929494777,4.02,2004,25,5,Covey,eng
+506,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2011,Non Fiction,989094,"Passion For Life (Quest Passion for Life Series, V. 1)",0743521056,4.4,2002,1,3,Simon & Schuster Audio,eng
+507,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2012,Non Fiction,935728,Focus: Achieving Your Highest Priorities,1929494696,3.87,2011,1,10,Franklin Covey,eng
+508,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2012,Non Fiction,935734,Before I Do Math (Preschool) (Step Ahead),0307035972,4.2,2000,7,6,Golden Books,eng
+509,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2012,Non Fiction,935736,The Four Disciplines of Execution,1929494777,4.02,2004,25,5,Covey,eng
+510,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2012,Non Fiction,989094,"Passion For Life (Quest Passion for Life Series, V. 1)",0743521056,4.4,2002,1,3,Simon & Schuster Audio,eng
+511,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2013,Non Fiction,935728,Focus: Achieving Your Highest Priorities,1929494696,3.87,2011,1,10,Franklin Covey,eng
+512,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2013,Non Fiction,935734,Before I Do Math (Preschool) (Step Ahead),0307035972,4.2,2000,7,6,Golden Books,eng
+513,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2013,Non Fiction,935736,The Four Disciplines of Execution,1929494777,4.02,2004,25,5,Covey,eng
+514,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.6,24,2013,Non Fiction,989094,"Passion For Life (Quest Passion for Life Series, V. 1)",0743521056,4.4,2002,1,3,Simon & Schuster Audio,eng
+515,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.7,16,2015,Non Fiction,935728,Focus: Achieving Your Highest Priorities,1929494696,3.87,2011,1,10,Franklin Covey,eng
+516,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.7,16,2015,Non Fiction,935734,Before I Do Math (Preschool) (Step Ahead),0307035972,4.2,2000,7,6,Golden Books,eng
+517,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.7,16,2015,Non Fiction,935736,The Four Disciplines of Execution,1929494777,4.02,2004,25,5,Covey,eng
+518,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.7,16,2015,Non Fiction,989094,"Passion For Life (Quest Passion for Life Series, V. 1)",0743521056,4.4,2002,1,3,Simon & Schuster Audio,eng
+519,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.7,16,2016,Non Fiction,935728,Focus: Achieving Your Highest Priorities,1929494696,3.87,2011,1,10,Franklin Covey,eng
+520,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.7,16,2016,Non Fiction,935734,Before I Do Math (Preschool) (Step Ahead),0307035972,4.2,2000,7,6,Golden Books,eng
+521,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.7,16,2016,Non Fiction,935736,The Four Disciplines of Execution,1929494777,4.02,2004,25,5,Covey,eng
+522,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.7,16,2016,Non Fiction,989094,"Passion For Life (Quest Passion for Life Series, V. 1)",0743521056,4.4,2002,1,3,Simon & Schuster Audio,eng
+523,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.7,16,2017,Non Fiction,935728,Focus: Achieving Your Highest Priorities,1929494696,3.87,2011,1,10,Franklin Covey,eng
+524,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.7,16,2017,Non Fiction,935734,Before I Do Math (Preschool) (Step Ahead),0307035972,4.2,2000,7,6,Golden Books,eng
+525,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.7,16,2017,Non Fiction,935736,The Four Disciplines of Execution,1929494777,4.02,2004,25,5,Covey,eng
+526,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.7,16,2017,Non Fiction,989094,"Passion For Life (Quest Passion for Life Series, V. 1)",0743521056,4.4,2002,1,3,Simon & Schuster Audio,eng
+527,The Alchemist,Paulo Coelho,4.7,39,2014,Fiction,922935,Manual del Guerrero de la Luz,0060565713,3.7,2004,30,3,Rayo,eng
+528,The Alchemist,Paulo Coelho,4.7,39,2014,Fiction,966300,By The River Piedra I Sat Down And Wept,0062513990,3.5700000000000003,1996,1,1,HarperOne,eng
+529,The Alchemist,Paulo Coelho,4.7,39,2014,Fiction,970060,Veronika Decides to Die,0061015016,3.71,2005,31,7,HarperTorch: An Imprint of HarperCollins Publishers,eng
+530,The Alchemist,Paulo Coelho,4.7,39,2014,Fiction,990662,Le Zahir,,3.58,2007,2,4,Éditions J'Ai Lu,eng
+531,The Going-To-Bed Book,Sandra Boynton,4.8,5,2016,Fiction,928913,"""A"" Is for Angry: An Animal and Adjective Alphabet",0894804537,4.06,1983,1,12,Workman Publishing,eng
+532,The Going-To-Bed Book,Sandra Boynton,4.8,5,2016,Fiction,928917,Hester in the Wild,0060206748,4.5,1980,1,9,HarperCollins Publishers,eng
+533,The Going-To-Bed Book,Sandra Boynton,4.8,5,2016,Fiction,928920,Opposites,0671449036,3.96,1982,30,11,Little Simon,eng
+534,The Going-To-Bed Book,Sandra Boynton,4.8,5,2016,Fiction,928921,Horns to Toes and in Between,0671493191,4.01,1984,11,10,Little Simon,eng
+535,The Going-To-Bed Book,Sandra Boynton,4.8,5,2016,Fiction,928923,Consider Love,0689859082,4.11,2003,1,1,Little Simon,eng
+536,The Going-To-Bed Book,Sandra Boynton,4.8,5,2016,Fiction,928924,Don't Let the Turkeys Get You Down,0894800132,3.87,1986,5,1,Workman Publishing Company,eng
+537,The Going-To-Bed Book,Sandra Boynton,4.8,5,2016,Fiction,928928,Moo Cow Book,0689876831,4.28,2004,1,10,Little Simon,eng
+538,The Going-To-Bed Book,Sandra Boynton,4.8,5,2016,Fiction,928930,Consider Love: Its Moods and Many Ways,0689847033,4.11,2002,1,1,Simon & Schuster,eng
+539,The Going-To-Bed Book,Sandra Boynton,4.8,5,2017,Fiction,928913,"""A"" Is for Angry: An Animal and Adjective Alphabet",0894804537,4.06,1983,1,12,Workman Publishing,eng
+540,The Going-To-Bed Book,Sandra Boynton,4.8,5,2017,Fiction,928917,Hester in the Wild,0060206748,4.5,1980,1,9,HarperCollins Publishers,eng
+541,The Going-To-Bed Book,Sandra Boynton,4.8,5,2017,Fiction,928920,Opposites,0671449036,3.96,1982,30,11,Little Simon,eng
+542,The Going-To-Bed Book,Sandra Boynton,4.8,5,2017,Fiction,928921,Horns to Toes and in Between,0671493191,4.01,1984,11,10,Little Simon,eng
+543,The Going-To-Bed Book,Sandra Boynton,4.8,5,2017,Fiction,928923,Consider Love,0689859082,4.11,2003,1,1,Little Simon,eng
+544,The Going-To-Bed Book,Sandra Boynton,4.8,5,2017,Fiction,928924,Don't Let the Turkeys Get You Down,0894800132,3.87,1986,5,1,Workman Publishing Company,eng
+545,The Going-To-Bed Book,Sandra Boynton,4.8,5,2017,Fiction,928928,Moo Cow Book,0689876831,4.28,2004,1,10,Little Simon,eng
+546,The Going-To-Bed Book,Sandra Boynton,4.8,5,2017,Fiction,928930,Consider Love: Its Moods and Many Ways,0689847033,4.11,2002,1,1,Simon & Schuster,eng
+547,The Goldfinch: A Novel (Pulitzer Prize for Fiction),Donna Tartt,3.9,20,2013,Fiction,989265,The Little Friend,0747562121,3.46,2002,29,10,Bloomsbury,eng
+548,The Goldfinch: A Novel (Pulitzer Prize for Fiction),Donna Tartt,3.9,20,2014,Fiction,989265,The Little Friend,0747562121,3.46,2002,29,10,Bloomsbury,eng
+549,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2012,Fiction,905668,The Great Gatsby,0141008563,3.92,2001,27,9,Penguin Books Ltd,eng
+550,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2012,Fiction,907213,Babylon Revisited: The Screenplay,0881849685,3.05,1993,1,1,Carroll & Graf,eng
+551,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2012,Fiction,915426,This Side of Paradise,0760700133,3.67,1996,1,1,Barnes & Noble,eng
+552,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2012,Fiction,916269,The Diamond As Big As The Ritz: And Other Stories,0140082085,3.89,1986,30,1,Penguin Books Ltd.,eng
+553,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2012,Fiction,916270,The Crack-up with other Pieces and Stories,0140180605,3.92,1990,25,5,Penguin Books Ltd.,eng
+554,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2012,Fiction,916276,Collected Stories: The Pat Hobby Stories v. 3,0140180613,3.5700000000000003,1992,30,6,Penguin,eng
+555,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2012,Fiction,916277,Collected Stories 4: Bernice Bobs Her Hair (20th Century Classics),0140180621,3.8,1989,29,5,Penguin Books Ltd,eng
+556,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2012,Fiction,957924,The Beautiful and Damned,0375759646,3.75,2002,12,2,Modern Library,eng
+557,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2013,Fiction,905668,The Great Gatsby,0141008563,3.92,2001,27,9,Penguin Books Ltd,eng
+558,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2013,Fiction,907213,Babylon Revisited: The Screenplay,0881849685,3.05,1993,1,1,Carroll & Graf,eng
+559,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2013,Fiction,915426,This Side of Paradise,0760700133,3.67,1996,1,1,Barnes & Noble,eng
+560,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2013,Fiction,916269,The Diamond As Big As The Ritz: And Other Stories,0140082085,3.89,1986,30,1,Penguin Books Ltd.,eng
+561,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2013,Fiction,916270,The Crack-up with other Pieces and Stories,0140180605,3.92,1990,25,5,Penguin Books Ltd.,eng
+562,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2013,Fiction,916276,Collected Stories: The Pat Hobby Stories v. 3,0140180613,3.5700000000000003,1992,30,6,Penguin,eng
+563,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2013,Fiction,916277,Collected Stories 4: Bernice Bobs Her Hair (20th Century Classics),0140180621,3.8,1989,29,5,Penguin Books Ltd,eng
+564,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2013,Fiction,957924,The Beautiful and Damned,0375759646,3.75,2002,12,2,Modern Library,eng
+565,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2014,Fiction,905668,The Great Gatsby,0141008563,3.92,2001,27,9,Penguin Books Ltd,eng
+566,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2014,Fiction,907213,Babylon Revisited: The Screenplay,0881849685,3.05,1993,1,1,Carroll & Graf,eng
+567,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2014,Fiction,915426,This Side of Paradise,0760700133,3.67,1996,1,1,Barnes & Noble,eng
+568,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2014,Fiction,916269,The Diamond As Big As The Ritz: And Other Stories,0140082085,3.89,1986,30,1,Penguin Books Ltd.,eng
+569,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2014,Fiction,916270,The Crack-up with other Pieces and Stories,0140180605,3.92,1990,25,5,Penguin Books Ltd.,eng
+570,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2014,Fiction,916276,Collected Stories: The Pat Hobby Stories v. 3,0140180613,3.5700000000000003,1992,30,6,Penguin,eng
+571,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2014,Fiction,916277,Collected Stories 4: Bernice Bobs Her Hair (20th Century Classics),0140180621,3.8,1989,29,5,Penguin Books Ltd,eng
+572,The Great Gatsby,F. Scott Fitzgerald,4.4,7,2014,Fiction,957924,The Beautiful and Damned,0375759646,3.75,2002,12,2,Modern Library,eng
+573,The Handmaid's Tale,Margaret Atwood,4.3,7,2017,Fiction,939790,Surfacing,0771098995,3.45,1994,15,9,New Canadian Library,eng
+574,The Handmaid's Tale,Margaret Atwood,4.3,7,2017,Fiction,954198,The New Oxford Book of Canadian Short Stories,0195412206,3.72,1997,27,2,"Oxford University Press, USA",eng
+575,The Handmaid's Tale,Margaret Atwood,4.3,7,2017,Fiction,954199,The Oxford Book of Canadian Short Stories in English,0195405978,3.72,1988,10,3,Oxford University Press,eng
+576,The Handmaid's Tale,Margaret Atwood,4.3,7,2017,Fiction,965626,Bluebeard's Egg,0770428193,3.74,1999,18,5,Seal Books,eng
+577,The Handmaid's Tale,Margaret Atwood,4.3,7,2017,Fiction,985757,Curious Pursuits: Occasional Writing 1970-2005,1844081508,3.96,2005,1,12,Virago Press (UK),eng
+578,The Lego Ideas Book: Unlock Your Imagination,Daniel Lipkowitz,4.4,13,2011,Non Fiction,953079,The Dark Fortress (LEGO Knights' Kingdom: Level 4),0439745683,4.27,2005,1,10,Scholastic,eng
+579,The Lego Ideas Book: Unlock Your Imagination,Daniel Lipkowitz,4.4,13,2011,Non Fiction,981949,Search for the King (LEGO Knights' Kingdom Reader #1),0439702305,4.06,2005,1,4,Scholastic,eng
+580,The Lego Ideas Book: Unlock Your Imagination,Daniel Lipkowitz,4.4,13,2012,Non Fiction,953079,The Dark Fortress (LEGO Knights' Kingdom: Level 4),0439745683,4.27,2005,1,10,Scholastic,eng
+581,The Lego Ideas Book: Unlock Your Imagination,Daniel Lipkowitz,4.4,13,2012,Non Fiction,981949,Search for the King (LEGO Knights' Kingdom Reader #1),0439702305,4.06,2005,1,4,Scholastic,eng
+582,The Nightingale: A Novel,Kristin Hannah,4.8,11,2015,Fiction,909000,The Enchantment,0449147738,3.5700000000000003,2003,1,4,Ballantine Books,eng
+583,The Nightingale: A Novel,Kristin Hannah,4.8,11,2016,Fiction,909000,The Enchantment,0449147738,3.5700000000000003,2003,1,4,Ballantine Books,eng
+584,The Time Traveler's Wife,Audrey Niffenegger,4.4,6,2009,Fiction,989301,Жена путешественника во времени,5699150471,3.97,2006,1,1,Эксмо,rus
+585,The Total Money Makeover: Classic Edition: A Proven Plan for Financial Fitness,Dave Ramsey,4.7,10,2019,Non Fiction,953726,Careless at the Carnival: Junior Discovers Spending,097263231X,4.18,2003,1,10,Ramsey Solutions Inc,en-US
+586,The Very Hungry Caterpillar,Eric Carle,4.9,5,2013,Fiction,920783,The Very Busy Spider,0399211667,4.21,1985,6,3,Philomel Books,en-US
+587,The Very Hungry Caterpillar,Eric Carle,4.9,5,2014,Fiction,920783,The Very Busy Spider,0399211667,4.21,1985,6,3,Philomel Books,en-US
+588,The Very Hungry Caterpillar,Eric Carle,4.9,5,2015,Fiction,920783,The Very Busy Spider,0399211667,4.21,1985,6,3,Philomel Books,en-US
+589,The Very Hungry Caterpillar,Eric Carle,4.9,5,2016,Fiction,920783,The Very Busy Spider,0399211667,4.21,1985,6,3,Philomel Books,en-US
+590,The Very Hungry Caterpillar,Eric Carle,4.9,5,2017,Fiction,920783,The Very Busy Spider,0399211667,4.21,1985,6,3,Philomel Books,en-US
+591,The Very Hungry Caterpillar,Eric Carle,4.9,5,2018,Fiction,920783,The Very Busy Spider,0399211667,4.21,1985,6,3,Philomel Books,en-US
+592,The Very Hungry Caterpillar,Eric Carle,4.9,5,2019,Fiction,920783,The Very Busy Spider,0399211667,4.21,1985,6,3,Philomel Books,en-US
+593,The Wright Brothers,David McCullough,4.7,16,2015,Non Fiction,937450,"The Great East River Bridge, 1883 1983",0810909820,4.23,1988,1,3,ABRAMS,eng
+594,The Wright Brothers,David McCullough,4.7,16,2015,Non Fiction,937458,The Great Bridge: The Epic Story of the Building of the Brooklyn Bridge,0671212133,4.23,1982,2,10,Simon & Schuster (NYC),eng
+595,The Wright Brothers,David McCullough,4.7,16,2015,Non Fiction,978479,John Adams,0743504747,4.06,2001,1,5,Simon & Schuster Audio,eng
+596,True Compass: A Memoir,Edward M. Kennedy,4.5,15,2009,Non Fiction,926799,America Back on Track,0670037648,3.46,2006,18,4,Brookings Institution Press,eng
+597,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,4.8,16,2010,Non Fiction,944288,Seabiscuit: An American Legend,0449005615,4.22,2002,26,3,Ballantine Books,eng
+598,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,4.8,16,2011,Non Fiction,944288,Seabiscuit: An American Legend,0449005615,4.22,2002,26,3,Ballantine Books,eng
+599,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,4.8,16,2012,Non Fiction,944288,Seabiscuit: An American Legend,0449005615,4.22,2002,26,3,Ballantine Books,eng
+600,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,4.8,13,2014,Non Fiction,944288,Seabiscuit: An American Legend,0449005615,4.22,2002,26,3,Ballantine Books,eng
+601,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,4.8,16,2014,Non Fiction,944288,Seabiscuit: An American Legend,0449005615,4.22,2002,26,3,Ballantine Books,eng
+602,Watchmen,Alan Moore,4.8,42,2009,Fiction,940042,Smax,1401203256,3.71,2004,1,10,Wildstorm,eng
+603,Water for Elephants: A Novel,Sara Gruen,4.5,12,2011,Fiction,951250,Water for Elephants,0340935464,4.09,2007,7,4,Hodder & Stoughton,eng
+604,"Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health",William Davis,4.4,6,2012,Non Fiction,901540,The Encyclopedia of Dollhouse-Decorating Techniques,0762400951,4.21,1997,1,10,Running Press Book Publishers,eng
+605,"Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health",William Davis,4.4,6,2013,Non Fiction,901540,The Encyclopedia of Dollhouse-Decorating Techniques,0762400951,4.21,1997,1,10,Running Press Book Publishers,eng
+606,Where the Wild Things Are,Maurice Sendak,4.8,13,2009,Fiction,918487,The Art of Maurice Sendak: 1980 to the Present,0810944480,4.45,2003,5,11,Harry N. Abrams,en-US
+607,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,903743,Alto Riesgo,8497593308,3.98,2017,25,4,Debolsillo,spa
+608,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,940664,Jackdaws,0375431594,3.98,2001,4,12,Random House Large Print Publishing,eng
+609,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,940666,Eye of the Needle,0380733358,4.18,2000,1,8,Avon,eng
+610,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,967688,The Man from St. Petersburg,0451163516,3.88,1983,1,5,Signet,eng
+611,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,967690,Night over Water,0451173139,3.82,1992,1,9,Signet,eng
+612,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,967692,The Key to Rebecca,0451163494,3.89,1981,1,9,Penguin Books,eng
+613,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,967697,"Les piliers de la terre, Tome 2 Aliena",223405785X,4.46,2005,4,5,Stock,fre
+614,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,967698,The Pillars of the Earth,1405091045,4.32,2007,5,10,Penguin Audiobooks,en-GB
+615,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,967699,The Hammer of Eden,0449006778,3.47,1999,2,11,Ballantine Books,eng
+616,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,967707,Code to Zero,0525945636,3.74,2000,30,11,Dutton Adult,eng
+617,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,967724,A Dangerous Fortune,1561001775,4.06,1994,1,3,Brilliance Audio,eng
+618,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,967733,Der dritte Zwilling,3404129423,3.7,1999,22,4,Bastei Lübbe,ger
+619,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,997354,"The Pillars of the Earth (Kingsbridge, #1)",0330450131,4.32,2007,6,4,Pan Books,eng
+620,Winter of the World: Book Two of the Century Trilogy,Ken Follett,4.5,15,2012,Fiction,997356,Pillars of the Earth,0330391984,4.32,1999,8,10,Pan Books,eng

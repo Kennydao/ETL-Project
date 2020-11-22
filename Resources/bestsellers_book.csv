@@ -1,0 +1,213 @@
+AuthorName,Price,Genre,BookId,Title,ISBN,Rating,PublishY
+Stephen King,22,Fiction,912842,Everything's Eventual,0340770732,3.97,2002
+Stephen King,22,Fiction,912845,Todo es eventual: 14 relatos oscuros,8401328888,3.97,2003
+Stephen King,22,Fiction,912846,Everything's Eventual: 14 Dark Tales,0743235185,3.97,2002
+Stephen King,22,Fiction,913981,Bag of Bones,0340951427,3.9,2007
+Stephen King,22,Fiction,920669,Carrie,0340920947,3.96,2006
+Stephen King,22,Fiction,924588,"Wizard and Glass (The Dark Tower, #4)",0340832266,4.25,2003
+Stephen King,22,Fiction,924761,El misterio de Salem's Lot,8401474566,4.02,1999
+Stephen King,22,Fiction,924762,'Salem's Lot,0340951478,4.02,2007
+Stephen King,22,Fiction,930148,Shining,2709612011,4.23,1992
+Stephen King,22,Fiction,940449,Cujo,8878242357,3.72,1995
+Stephen King,22,Fiction,941204,Dreamcatcher,0340734639,3.63,2003
+Stephen King,22,Fiction,952568,Tommyknockers,8401498953,3.54,1992
+Stephen King,22,Fiction,957839,Pet Sematary,1417721197,3.99,2002
+Stephen King,22,Fiction,963070,The Green Mile,3404139585,4.45,2000
+Stephen King,22,Fiction,963081,La Milla Verde,8401327024,4.45,2000
+Stephen King,22,Fiction,974791,Cell,0743554337,3.65,2006
+Stephen King,22,Fiction,978881,Different Seasons,0451147642,4.35,1981
+Stephen King,22,Fiction,983542,Dolores Claiborne,0340546751,3.87,1993
+Stephen King,22,Fiction,995103,The Gunslinger,0452261341,3.95,1988
+Stephen King,22,Fiction,995123,The Drawing of the Three (The Dark Tower #2),0452262143,4.23,1989
+Stephen King,22,Fiction,995127,The Waste Lands (The Dark Tower #3),0452267404,4.24,1992
+Stephen King,22,Fiction,995131,"The Waste Lands (The Dark Tower, #3)",0140867171,4.24,1998
+Stephen King,22,Fiction,995275,Blood and Smoke,0671046160,3.92,2000
+Stephen King,22,Fiction,999567,On Writing: A Memoir of the Craft,0613365682,4.33,2001
+George Orwell,6,Fiction,961720,Animal Farm,0582434475,3.94,2000
+George Orwell,6,Fiction,978916,A Clergyman's Daughter,0156180650,3.48,1950
+Madeleine L'Engle,5,Fiction,952570,Wind In The Door,061372383X,4.03,1976
+Madeleine L'Engle,5,Fiction,963476,A Winter's Love,0877888892,3.61,2000
+Madeleine L'Engle,5,Fiction,967848,Meet the Austins (Austin Family #1),0808555669,3.84,1981
+Madeleine L'Engle,5,Fiction,996347,"A Wrinkle in Time (Time Series, #1)",0440220394,4.0,1996
+Ron Chernow,13,Non Fiction,944986,Alexander Hamilton,0142800430,4.22,2004
+Ron Chernow,13,Non Fiction,953836,"Titan: The Life of John D. Rockefeller, Sr.",0375402802,4.2,1998
+Khaled Hosseini,13,Fiction,992052,A Thousand Splendid Suns,0670064912,4.37,2007
+Khaled Hosseini,13,Fiction,993691,Les Cerfs-volants de Kaboul,0785932798,4.3,2006
+Glenn Beck,5,Non Fiction,993455,An Inconvenient Book: Real Solutions to the World's Biggest Problems,1416552197,3.75,2007
+Mark Twain,14,Non Fiction,924214,Pudd'nhead Wilson,0783891474,3.79,2000
+Mark Twain,14,Non Fiction,924215,"The $30,000 Bequest and Other Stories",0195101464,3.48,1996
+Mark Twain,14,Non Fiction,924742,A Connecticut Yankee in King Arthur's Court,0812504364,3.78,1991
+Mark Twain,14,Non Fiction,928183,The Gilded Age: A Tale of Today,014043920X,3.54,2001
+Mark Twain,14,Non Fiction,939869,"Graphic Classics, Volume 8: Mark Twain",0978791924,3.36,2007
+Mark Twain,14,Non Fiction,947493,A Double Barrelled Detective Story,1410100650,3.22,2002
+Mark Twain,14,Non Fiction,953644,Pudd'nhead Wilson and Other Tales,0192818066,3.79,1992
+Mark Twain,14,Non Fiction,954455,A Tramp Abroad,0140436081,3.86,1998
+Mark Twain,14,Non Fiction,954456,"Can-Cans, Cats and Cities of Ash (Great Journeys)",0141025565,3.44,2007
+Mark Twain,14,Non Fiction,954476,Life on the Mississippi,0140390502,3.89,1985
+Mark Twain,14,Non Fiction,954477,Roughing It,0140390103,3.89,1982
+Mark Twain,14,Non Fiction,965754,A Connecticut Yankee in King Arthurs Court: Level 5,9607609832,3.78,2008
+Mark Twain,14,Non Fiction,971248,A Tramp Abroad (Authorized Uniform Edition 1),0809531569,3.86,2003
+Mark Twain,14,Non Fiction,978472,The Adventures of Huckleberry Finn,0688106560,3.82,1994
+Mark Twain,14,Non Fiction,981388,The Adventures of Tom Sawyer,1904633471,3.91,2010
+Mark Twain,14,Non Fiction,987496,"The Celebrated Jumping Frog, and Other Sketches",1411630874,3.69,2007
+Mark Twain,14,Non Fiction,987901,Adventures of Huckleberry Finn: with Reader's Guide,0877208166,3.82,1972
+Mark Twain,14,Non Fiction,999292,A Connecticut Yankee In King Arthur's Court,0192839020,3.78,1999
+Bruce Springsteen,18,Non Fiction,948628,Bruce Springsteen -- Greatest Hits: Authentic Guitar Tab,1576233014,3.67,1996
+Bill Martin Jr.,5,Fiction,958347,Here Are My Hands,0805059113,3.88,1998
+Bill Martin Jr.,5,Fiction,958348,Barn Dance!,0805007997,3.84,1988
+Malcolm Gladwell,13,Non Fiction,944767,Blink: The Power of Thinking Without Thinking,0141022043,3.93,2006
+Charlaine Harris,4,Fiction,954672,"Dead to the World (Sookie Stackhouse, #4)",1841493708,4.13,2005
+Rod Campbell,5,Fiction,972052,Dear Zoo: A Lift The Flap Book,0689825498,4.28,1999
+Dav Pilkey,6,Fiction,904935,El Capitán Calzoncillos y la feroz batalla contra el Niño Mocobiónico 1a Parte: La noche de los Mocos Vivientes,0439662044,4.17,2005
+Dav Pilkey,6,Fiction,904936,Capt Underpants  The Invasion...(c Apitan Calzoncillos Y La Invas...),0439353017,4.17,2002
+Dav Pilkey,6,Fiction,904937,El  Capitan Calzoncillos y la Invasion de las Horribles Senoras del Espacio Sideral: Y el Subsiguiente Asalto de los Igual de Horribles Zombis Malvado,0613504151,4.17,2002
+Dav Pilkey,6,Fiction,948272,Las aventuras del superbebe panal,043955120X,4.23,2003
+Marty Noble,5,Non Fiction,974716,Mehndi Designs: Traditional Henna Body Art,0486438600,3.61,2004
+Marty Noble,5,Non Fiction,995894,Color Your Own Impressionist Paintings,048643592X,4.44,2004
+Daniel H. Pink,16,Non Fiction,936026,Free Agent Nation: How America's New Independent Workers Are Transforming the Way We Live,0446525235,3.83,2005
+David Zinczenko,1,Non Fiction,921327,"The Abs Diet Ultimate Nutrition Handbook: Your Reference Guide to Thousands of Foods, and How Each One Shapes Your Body",1594867577,3.64,2007
+Ray Bradbury,8,Fiction,904299,Death Is A Lonely Business,0553264478,3.78,1987
+Ray Bradbury,8,Fiction,941662,Fahrenheit 451,0345294661,3.99,1981
+Ray Bradbury,8,Fiction,951779,Dandelion Wine,0553131559,4.09,1979
+Ray Bradbury,8,Fiction,968871,Timeless Stories for Today and Tomorrow,0553102494,4.07,1967
+Ray Bradbury,8,Fiction,970649,The Martian Chronicles,0385050607,4.14,1958
+Ray Bradbury,8,Fiction,981778,The Halloween Tree,055320064X,3.84,1974
+J.K. Rowling,15,Fiction,907207,ハリー・ポッターと賢者の石 (ハリー・ポッターシリーズ #1),4915512495,4.47,2003
+J.K. Rowling,15,Fiction,912224,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",0545029368,4.62,2007
+J.K. Rowling,15,Fiction,925412,"Harry Potter à l'École des Sorciers (Harry Potter, #1)",2070612368,4.47,2007
+J.K. Rowling,15,Fiction,943082,"Harry Potter ja puoliverinen prinssi (Harry Potter, #6)",9513135071,4.57,2006
+J.K. Rowling,15,Fiction,943346,"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",0939173352,4.42,1999
+J.K. Rowling,15,Fiction,943382,"Harry Potter ja Feeniksin kilta (Harry Potter, #5)",9513129071,4.5,2004
+J.K. Rowling,15,Fiction,988373,Complete Harry Potter Boxed Set,0747593698,4.74,2007
+Bob Woodward,2,Non Fiction,972316,Wired: The Short Life and Fast Times of John Belushi,0671473204,3.69,1984
+Bob Woodward,2,Non Fiction,973102,The Agenda: Inside the Clinton White House,0671864866,3.62,1994
+Michael Pollan,9,Non Fiction,923381,The Botany of Desire: A Plant's-Eye View of the World,1588360083,4.06,2001
+George R.R. Martin,5,Fiction,940866,Tuf Voyaging,1592220169,4.1,2003
+George R.R. Martin,5,Fiction,984792,"Aces Abroad (Wild Cards, #4)",0743452410,3.78,2002
+George R.R. Martin,5,Fiction,985870,"A Dance with Dragons (A Song of Ice and Fire, #5)",0002247399,4.33,2011
+George R.R. Martin,5,Fiction,985872,"A Storm of Swords (A Song of Ice and Fire, #3)",000710197X,4.54,2000
+George R.R. Martin,5,Fiction,985873,"A Game of Thrones (A Song of Ice and Fire, #1)",,4.45,2002
+Giles Andreae,4,Fiction,970062,K Is For Kissing A Cool Kangaroo,1841212628,3.75,2003
+Harper Lee,19,Fiction,970917,To Kill a Mockingbird,0397001517,4.28,1961
+Harper Lee,19,Fiction,988812,To Kill A Mockingbird,3883891711,4.28,2003
+Gillian Flynn,10,Fiction,943381,Sharp Objects,0739340174,3.97,2006
+Margaret Wise Brown,5,Fiction,908728,Another Important Book,0060262826,3.67,1999
+Margaret Wise Brown,5,Fiction,910548,A Child's Good Night Book,0694008397,3.45,1995
+Margaret Wise Brown,5,Fiction,910549,Mouse of My Heart: A Treasury of Sense and Nonsense: Mouse of My Heart,0786806281,3.98,2001
+Margaret Wise Brown,5,Fiction,910552,Mi mundo: My World (Spanish edition),0066238412,3.45,2001
+Margaret Wise Brown,5,Fiction,916411,The Runaway Bunny Lap Edition,0694016713,4.11,2017
+Margaret Wise Brown,5,Fiction,934571,The Dead Bird,0060207582,3.59,1990
+Mitch Albom,4,Non Fiction,928044,The Five People You Meet in Heaven,1401384056,3.94,2006
+Mitch Albom,4,Non Fiction,928045,For One More Day,1401387241,4.1,2006
+Mitch Albom,4,Non Fiction,955847,"Tuesdays with Morrie: an old man, a young man, and life's greatest lesson",1590866347,4.11,2002
+Dale Carnegie,11,Non Fiction,932441,The Leader in You,067188011X,4.09,1994
+James Patterson,7,Fiction,919582,"3rd Degree (Women's Murder Club, #3)",0316603570,4.02,2004
+James Patterson,7,Fiction,928943,The 6th Target (Women's Murder Club #6),0755330366,4.04,2007
+James Patterson,7,Fiction,929670,The Quickie,0446581747,3.83,2007
+James Patterson,7,Fiction,938059,The 5th Horseman (Women's Murder Club #5),0316154776,4.06,2006
+James Patterson,7,Fiction,952769,"The Angel Experiment (Maximum Ride, #1)",031615556X,4.08,2005
+James Patterson,7,Fiction,955157,"Saving the World and Other Extreme Sports (Maximum Ride, #3)",0446194042,4.15,2008
+James Patterson,7,Fiction,963061,Honeymoon,0755305760,3.83,2005
+Dan Brown,14,Fiction,946168,"Da Vinci Code (Robert Langdon, #2)",2709624931,3.85,2004
+Dan Brown,14,Fiction,970381,"Angels & Demons (Robert Langdon, #1)",0743277716,3.9,2006
+Dan Brown,14,Fiction,998867,Anges et Démons,2266144359,3.9,2007
+Dan Brown,14,Fiction,998876,"Anges et Démons (Robert Langdon, #1)",2709625792,3.9,2005
+Dan Brown,14,Fiction,998877,"The Da Vinci Code (Robert Langdon, #2)",0739307312,3.85,2003
+Dan Brown,14,Fiction,998880,Angels & Demons,074349346X,3.9,2006
+Mark R. Levin,15,Non Fiction,994192,Rescuing Sprite: A Dog Lover's Story of Joy and Anguish,1416559132,3.93,2007
+John Green,7,Fiction,934301,Looking for Alaska,0007209258,4.03,2006
+John Green,7,Fiction,954903,Buscando a Alaska,9702008581,4.03,2006
+Robert Munsch,5,Fiction,900210,Je t'aimerai toujours,0920668496,4.36,1988
+Robert Munsch,5,Fiction,900230,Moira's Birthday,0920303838,3.97,1987
+Robert Munsch,5,Fiction,900233,Lighthouse: A Story Of Remembrance,0439490316,4.07,2003
+Robert Munsch,5,Fiction,900239,Where is Gah-Ning?,1550379828,3.71,1994
+Robert Munsch,5,Fiction,934713,Something Good,1550373900,4.06,1995
+Julia Child,27,Non Fiction,953360,In Julia's Kitchen with Master Chefs,0679438963,4.15,1995
+Elie Wiesel,9,Non Fiction,957883,Passover Haggadah,0671799967,4.2,1993
+Elie Wiesel,9,Non Fiction,957899,Four Hasidic Masters and Their Struggle against Melancholy,0268009473,4.13,1987
+Dr. Seuss,8,Fiction,900821,The Lorax,0394923375,4.35,1971
+Dr. Seuss,8,Fiction,909016,Hop on Pop,0375828370,3.98,2004
+Dr. Seuss,8,Fiction,930328,Silly Opposites: A Lift The Flap Book,0007169442,4.21,2003
+Dr. Seuss,8,Fiction,934142,The Complete Cat In The Hat,0007247885,4.15,2007
+Dr. Seuss,8,Fiction,934159,My Many Coloured Days,0099266598,4.25,2001
+Dr. Seuss,8,Fiction,934684,The Foot Book,0394809378,4.02,1968
+Dr. Seuss,8,Fiction,934685,There's a Wocket in my Pocket!,0394829204,4.03,1974
+Dr. Seuss,8,Fiction,949048,Horton Hears a Who! Can You?,0375843248,4.18,2008
+Golden Books,4,Fiction,977866,Dora: Going to a Party (Posters to Color),030720216X,0.0,2002
+Golden Books,4,Fiction,979592,Spring Fun Has Just Begun (Stickerific),0375826645,0.0,2004
+Golden Books,4,Fiction,983803,I Know Numbers (Preschool),0307036715,5.0,1999
+Golden Books,4,Fiction,988112,Little Red Hen (A Golden Super Shape Classic),0307100979,3.62,1990
+Golden Books,4,Fiction,988162,Saggy Baggy Elephant's Great Big Counting Book,0307104427,3.0,1983
+Steven D. Levitt,18,Non Fiction,945976,Freakonomics,0141030089,3.98,2006
+Steven D. Levitt,18,Non Fiction,945979,Freakonomics Om,0141025808,3.98,2006
+Steven D. Levitt,18,Non Fiction,984616,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,0060776137,3.98,2005
+John Grisham,18,Fiction,909387,La Firme,2266056921,4.07,1994
+John Grisham,18,Fiction,914901,A Time to Kill,0385471122,4.07,1993
+John Grisham,18,Fiction,931362,The Partner,0385472951,3.92,1997
+John Grisham,18,Fiction,933371,The Chamber,0582364116,3.79,2000
+John Grisham,18,Fiction,970877,The Innocent Man: Murder and Injustice in a Small Town,0739326732,3.82,2006
+John Grisham,18,Fiction,976010,The Rainmaker,037543352X,3.94,2005
+John Grisham,18,Fiction,984001,A Painted House,0375728120,3.71,2004
+John Grisham,18,Fiction,993054,The Summons,0385503822,3.69,2002
+John Grisham,18,Fiction,993065,Het testament,9022984338,3.86,1999
+Gary Chapman,28,Non Fiction,910501,The Love Languages of God - CD,188127358X,3.88,2003
+Gary Chapman,28,Non Fiction,989897,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,1589269063,4.25,2005
+Stephen R. Covey,24,Non Fiction,935728,Focus: Achieving Your Highest Priorities,1929494696,3.87,2011
+Stephen R. Covey,24,Non Fiction,935734,Before I Do Math (Preschool) (Step Ahead),0307035972,4.2,2000
+Stephen R. Covey,24,Non Fiction,935736,The Four Disciplines of Execution,1929494777,4.02,2004
+Stephen R. Covey,24,Non Fiction,989094,"Passion For Life (Quest Passion for Life Series, V. 1)",0743521056,4.4,2002
+Paulo Coelho,39,Fiction,922935,Manual del Guerrero de la Luz,0060565713,3.7,2004
+Paulo Coelho,39,Fiction,966300,By The River Piedra I Sat Down And Wept,0062513990,3.5700000000000003,1996
+Paulo Coelho,39,Fiction,970060,Veronika Decides to Die,0061015016,3.71,2005
+Paulo Coelho,39,Fiction,990662,Le Zahir,,3.58,2007
+Sandra Boynton,5,Fiction,928913,"""A"" Is for Angry: An Animal and Adjective Alphabet",0894804537,4.06,1983
+Sandra Boynton,5,Fiction,928917,Hester in the Wild,0060206748,4.5,1980
+Sandra Boynton,5,Fiction,928920,Opposites,0671449036,3.96,1982
+Sandra Boynton,5,Fiction,928921,Horns to Toes and in Between,0671493191,4.01,1984
+Sandra Boynton,5,Fiction,928923,Consider Love,0689859082,4.11,2003
+Sandra Boynton,5,Fiction,928924,Don't Let the Turkeys Get You Down,0894800132,3.87,1986
+Sandra Boynton,5,Fiction,928928,Moo Cow Book,0689876831,4.28,2004
+Sandra Boynton,5,Fiction,928930,Consider Love: Its Moods and Many Ways,0689847033,4.11,2002
+Donna Tartt,20,Fiction,989265,The Little Friend,0747562121,3.46,2002
+F. Scott Fitzgerald,7,Fiction,905668,The Great Gatsby,0141008563,3.92,2001
+F. Scott Fitzgerald,7,Fiction,907213,Babylon Revisited: The Screenplay,0881849685,3.05,1993
+F. Scott Fitzgerald,7,Fiction,915426,This Side of Paradise,0760700133,3.67,1996
+F. Scott Fitzgerald,7,Fiction,916269,The Diamond As Big As The Ritz: And Other Stories,0140082085,3.89,1986
+F. Scott Fitzgerald,7,Fiction,916270,The Crack-up with other Pieces and Stories,0140180605,3.92,1990
+F. Scott Fitzgerald,7,Fiction,916276,Collected Stories: The Pat Hobby Stories v. 3,0140180613,3.5700000000000003,1992
+F. Scott Fitzgerald,7,Fiction,916277,Collected Stories 4: Bernice Bobs Her Hair (20th Century Classics),0140180621,3.8,1989
+F. Scott Fitzgerald,7,Fiction,957924,The Beautiful and Damned,0375759646,3.75,2002
+Margaret Atwood,7,Fiction,939790,Surfacing,0771098995,3.45,1994
+Margaret Atwood,7,Fiction,954198,The New Oxford Book of Canadian Short Stories,0195412206,3.72,1997
+Margaret Atwood,7,Fiction,954199,The Oxford Book of Canadian Short Stories in English,0195405978,3.72,1988
+Margaret Atwood,7,Fiction,965626,Bluebeard's Egg,0770428193,3.74,1999
+Margaret Atwood,7,Fiction,985757,Curious Pursuits: Occasional Writing 1970-2005,1844081508,3.96,2005
+Daniel Lipkowitz,13,Non Fiction,953079,The Dark Fortress (LEGO Knights' Kingdom: Level 4),0439745683,4.27,2005
+Daniel Lipkowitz,13,Non Fiction,981949,Search for the King (LEGO Knights' Kingdom Reader #1),0439702305,4.06,2005
+Kristin Hannah,11,Fiction,909000,The Enchantment,0449147738,3.5700000000000003,2003
+Audrey Niffenegger,6,Fiction,989301,Жена путешественника во времени,5699150471,3.97,2006
+Dave Ramsey,10,Non Fiction,953726,Careless at the Carnival: Junior Discovers Spending,097263231X,4.18,2003
+Eric Carle,5,Fiction,920783,The Very Busy Spider,0399211667,4.21,1985
+David McCullough,16,Non Fiction,937450,"The Great East River Bridge, 1883 1983",0810909820,4.23,1988
+David McCullough,16,Non Fiction,937458,The Great Bridge: The Epic Story of the Building of the Brooklyn Bridge,0671212133,4.23,1982
+David McCullough,16,Non Fiction,978479,John Adams,0743504747,4.06,2001
+Edward M. Kennedy,15,Non Fiction,926799,America Back on Track,0670037648,3.46,2006
+Laura Hillenbrand,16,Non Fiction,944288,Seabiscuit: An American Legend,0449005615,4.22,2002
+Alan Moore,42,Fiction,940042,Smax,1401203256,3.71,2004
+Sara Gruen,12,Fiction,951250,Water for Elephants,0340935464,4.09,2007
+William Davis,6,Non Fiction,901540,The Encyclopedia of Dollhouse-Decorating Techniques,0762400951,4.21,1997
+Maurice Sendak,13,Fiction,918487,The Art of Maurice Sendak: 1980 to the Present,0810944480,4.45,2003
+Ken Follett,15,Fiction,903743,Alto Riesgo,8497593308,3.98,2017
+Ken Follett,15,Fiction,940664,Jackdaws,0375431594,3.98,2001
+Ken Follett,15,Fiction,940666,Eye of the Needle,0380733358,4.18,2000
+Ken Follett,15,Fiction,967688,The Man from St. Petersburg,0451163516,3.88,1983
+Ken Follett,15,Fiction,967690,Night over Water,0451173139,3.82,1992
+Ken Follett,15,Fiction,967692,The Key to Rebecca,0451163494,3.89,1981
+Ken Follett,15,Fiction,967697,"Les piliers de la terre, Tome 2 Aliena",223405785X,4.46,2005
+Ken Follett,15,Fiction,967698,The Pillars of the Earth,1405091045,4.32,2007
+Ken Follett,15,Fiction,967699,The Hammer of Eden,0449006778,3.47,1999
+Ken Follett,15,Fiction,967707,Code to Zero,0525945636,3.74,2000
+Ken Follett,15,Fiction,967724,A Dangerous Fortune,1561001775,4.06,1994
+Ken Follett,15,Fiction,967733,Der dritte Zwilling,3404129423,3.7,1999
+Ken Follett,15,Fiction,997354,"The Pillars of the Earth (Kingsbridge, #1)",0330450131,4.32,2007
+Ken Follett,15,Fiction,997356,Pillars of the Earth,0330391984,4.32,1999
